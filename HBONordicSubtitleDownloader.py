@@ -11,7 +11,6 @@ import requests
 from bs4 import BeautifulSoup as Soup
 import sys
 import re
-import xml.etree.ElementTree as ET
 import unicodedata
 
 #import argparse
@@ -69,7 +68,6 @@ def saveSubtitle(filename, subUrl):
         filename+="-DK"
     elif subUrl.endswith('FI.xml'):
         filename+="-FI" 
-    #filename += '.xml'  
     saveFile(filename +'.xml',r.text)
     srt = convertToSrt(r.text)
     saveFile(filename+'.srt',srt)
@@ -106,15 +104,14 @@ def getAndSaveSubtitles(url):
         print("Can not find ID")
         exit(-1)
 
-        
-    # print(id)
+    #Might replace parse.scheme with http to avoid https in the future
+    url = parse.scheme + '://' + parse.netloc
+    url = urljoin(url, 'cloffice/client/web/browse/'+ id)
     #get XML with links to subtitles
-    url = urljoin('http://se.hbonordic.com/cloffice/client/web/browse/', id)
     data = requests.get(url).content
-
-    #Improve this to find episodenumber (do not know why it doest work)
+    
     soup = Soup(data,'html.parser')
-    #Eveyrhting bottom of this can be added to own function to batch whole seasons
+
     #Find each episode
     items = soup.findAll('item')
     seasonLinks = []
@@ -123,15 +120,12 @@ def getAndSaveSubtitles(url):
         #If on season page or episode page
         
         if subTitleUrls:
-            #saveFile("debug.xml", data.text)
-            #Todo improve filenaming is 
+            #Generates a filename
             episode = item.find('clearleap:episodeinseason').text
-            episode = "{:02d}".format(int(episode)) #this should be used instead of episode but is not working for some reason
+            episode = "{:02d}".format(int(episode)) 
             series = item.find('clearleap:series').text
             season = item.find('clearleap:season').text
             season = "{:02d}".format(int(season))
-            #season = "{:02d}".format(int(item.find('clearleap:season').text))
-            #episode = item.find('clearleap:episode').text 
             filename = '%s.S%sE%s' % (series, season,episode) 
 
             for subUrl in subTitleUrls:
@@ -154,9 +148,8 @@ if __name__ == "__main__":
        url = sys.argv[1]
        #print('url is %s' % url)
        getAndSaveSubtitles(url)
+       exit(0)
     else:
         print('You must supply a url')
-    #if sys.argv[1:]
-    #url = "https://se.hbonordic.com/cloffice/client/web/browse/5408e6ca-474a-4638-9f35-fe5e67e00737"
-    #
+
 
