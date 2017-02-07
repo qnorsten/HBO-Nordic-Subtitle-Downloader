@@ -12,12 +12,51 @@ from bs4 import BeautifulSoup as Soup
 import sys
 import re
 import xml.etree.ElementTree as ET
+import unicodedata
 
 #import argparse
 
+
+#originaly copied from svtplay-dl (https://github.com/spaam/svtplay-dl)
+def ensure_unicode(s):
+    """
+    Ensure string is a unicode string. If it isn't it assumed it is
+    utf-8 and decodes it to a unicode string.
+    """
+    #if (is_py2 and isinstance(s, str)) or (is_py3 and isinstance(s, bytes)):
+    if isinstance(s, bytes):
+        s = s.decode('utf-8', 'replace')
+    return s
+
+
+def filenamify(title):
+    """
+    Convert a string to something suitable as a file name. E.g.
+     Matlagning del 1 av 10 - Räksmörgås | SVT Play
+       ->  matlagning.del.1.av.10.-.raksmorgas.svt.play
+    """
+    # ensure it is unicode
+    #title = ensure_unicode(title)
+
+    # NFD decomposes chars into base char and diacritical mark, which
+    # means that we will get base char when we strip out non-ascii.
+    title = unicodedata.normalize('NFD', title)
+
+    # Convert to lowercase
+    # Drop any non ascii letters/digits
+    # Drop any leading/trailing whitespace that may have appeared
+    title = re.sub(r'[^a-z0-9 .-]', '', title.lower().strip())
+
+    # Replace whitespace with dot
+    title = re.sub(r'\s+', '.', title)
+    title = re.sub(r'\.-\.', '-', title)
+
+    return title
+
+
 def saveFile(filename, data):
 
-    with open(filename, 'w') as fd:
+    with open(filenamify(filename), 'w') as fd:
         fd.write(data)
        
 def saveSubtitle(filename, subUrl):
@@ -84,12 +123,16 @@ def getAndSaveSubtitles(url):
         #If on season page or episode page
         
         if subTitleUrls:
+            #saveFile("debug.xml", data.text)
             #Todo improve filenaming is 
-            #episode = soup.find('clearleap:episodeInSeason') #this should be used instead of episode but is not working for some reason
+            episode = item.find('clearleap:episodeinseason').text
+            episode = "{:02d}".format(int(episode)) #this should be used instead of episode but is not working for some reason
             series = item.find('clearleap:series').text
             season = item.find('clearleap:season').text
-            episode = item.find('clearleap:episode').text 
-            filename = '%s.S%s.%s' % (series, season,episode) 
+            season = "{:02d}".format(int(season))
+            #season = "{:02d}".format(int(item.find('clearleap:season').text))
+            #episode = item.find('clearleap:episode').text 
+            filename = '%s.S%sE%s' % (series, season,episode) 
 
             for subUrl in subTitleUrls:
                 saveSubtitle(filename,subUrl.get("href"))
