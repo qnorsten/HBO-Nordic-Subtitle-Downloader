@@ -1,6 +1,7 @@
 #Script to download subtitles from HBO Nordic
 **usage** `HBONordicSubtitleDownloader.py <url>`
 ##Requires
+* Python3
 * Requests (http://docs.python-requests.org/en/master/#)
 * BeautifulSoup4B (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
