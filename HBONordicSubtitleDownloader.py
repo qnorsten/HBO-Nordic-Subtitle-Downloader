@@ -1,6 +1,7 @@
 #Script to download subtitles from HBO Nordic
 #usage HBONordicSubtitleDownloader.py <url>
 #Requires
+#*Python3
 #*Requests
 #*BeautifulSoup4
 #Works with episode urls, seasonurls or showpageurls as long as the url ends with an id such as: 99bee710-f406-4a98-a319-f929eedbdabf
@@ -9,11 +10,14 @@ from urllib.parse import urlparse, urljoin
 import requests
 from bs4 import BeautifulSoup as Soup
 import sys
+import re
+import xml.etree.ElementTree as ET
+
 #import argparse
 
 def saveFile(filename, data):
 
-    with open(filename, 'wb') as fd:
+    with open(filename, 'w') as fd:
         fd.write(data)
        
 def saveSubtitle(filename, subUrl):
@@ -26,12 +30,32 @@ def saveSubtitle(filename, subUrl):
         filename+="-DK"
     elif subUrl.endswith('FI.xml'):
         filename+="-FI" 
-    filename += '.xml'  
-    saveFile(filename,r.content)
+    #filename += '.xml'  
+    saveFile(filename +'.xml',r.text)
+    srt = convertToSrt(r.text)
+    saveFile(filename+'.srt',srt)
+
+
+
+#Converts xml subtitle to srt subtitle 
+def convertToSrt(data):
+    
+    soup = Soup(data,'html.parser')
+    plist = soup.findAll('p')
+    data = ''
+    i = 1
+    for p in plist:
+        begin = p.get('begin').replace(".", ",")
+        end = p.get('end').replace(".", ",")
+        data += '%s\n%s --> %s\n' % (i, begin.replace(".", ","), end.replace(".", ","))
+        data += p.getText(separator='\n')  #("<br/>-","\n")
+        data += "\n\n"
+        i+=1
+    return data
+   
 
 
 def getAndSaveSubtitles(url):
-    print(url)
     ##Main function
     #extract ID and use it
     #Example Whole series url =https://se.hbonordic.com/cloffice/client/web/browse/5408e6ca-474a-4638-9f35-fe5e67e00737
@@ -73,18 +97,18 @@ def getAndSaveSubtitles(url):
         else:
             seasonLink = item.find('link').contents
             seasonLinks.append(seasonLink[0])
-        
-    for seasonLink in seasonLinks:
-        #Prevent loop in case a video is missing subtitles
-        if not seasonLink == url:
-            getAndSaveSubtitles(seasonLink)
+    if seasonLinks:    
+        for seasonLink in seasonLinks:
+            #Prevent loop in case a video is missing subtitles
+            if not seasonLink == url:
+                getAndSaveSubtitles(seasonLink)
     
 
 
 if __name__ == "__main__":
 
     if len(sys.argv) >= 2:
-       url = sys.argv[1:]
+       url = sys.argv[1]
        #print('url is %s' % url)
        getAndSaveSubtitles(url)
     else:
