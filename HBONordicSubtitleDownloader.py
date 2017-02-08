@@ -67,11 +67,11 @@ class HBONordicSubtitleDownloader():
 
     def saveFile(self, filename, data):
 
-        with open(self.filenamify(filename), 'w') as fd:
+        with open(filename, 'w') as fd:
             fd.write(data)
            
     def saveSubtitle(self, filename, subUrl):
-        r = requests.get(subUrl, stream=True)
+        r = requests.get(subUrl)
         if self.checkLanguage(subUrl) == 'SV':
             filename+="-SV"
         elif self.checkLanguage(subUrl) == 'NO':
@@ -81,6 +81,7 @@ class HBONordicSubtitleDownloader():
         elif self.checkLanguage(subUrl) == 'FI':
             filename+="-FI"
        #add else here later
+        filename = self.filenamify(filename)
         if not self.no_xml:
             print("Saving: %s.xml" %filename)
             self.saveFile(filename +'.xml',r.text)
@@ -152,13 +153,18 @@ class HBONordicSubtitleDownloader():
             
             if subTitleUrls:
                 #Generates a filename
-                episode = item.find('clearleap:episodeinseason').text
-                episode = "{:02d}".format(int(episode)) 
-                series = item.find('clearleap:series').text
-                season = item.find('clearleap:season').text
-                season = "{:02d}".format(int(season))
-                filename = '%s.S%sE%s' % (series, season,episode) 
-
+                #if TV-series (might improve this check later)
+                if item.find('clearleap:season'):
+                    episode = item.find('clearleap:episodeinseason').text
+                    episode = "{:02d}".format(int(episode)) 
+                    series = item.find('clearleap:series').text
+                    season = item.find('clearleap:season').text
+                    season = "{:02d}".format(int(season))
+                    filename = '%s.S%sE%s' % (series, season,episode) 
+                #If movie
+                else:
+                    title = item.find('title').text
+                    filename = title
                 for subUrl in subTitleUrls:
                     subUrl = subUrl.get("href")
                     if self.languages:
@@ -191,6 +197,7 @@ if __name__ == "__main__":
     
     HBO = HBONordicSubtitleDownloader()
     HBO.getAndSaveSubtitles()
+    exit(0)
     
     #look up this link later if needed http://stackoverflow.com/questions/20021693/how-to-pass-argparse-arguments-to-a-class
     #args_dict = vars(args)
