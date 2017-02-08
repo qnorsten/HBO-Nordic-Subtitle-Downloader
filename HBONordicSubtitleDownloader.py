@@ -186,6 +186,7 @@ if __name__ == "__main__":
     group.add_argument("--no-srt",help="Do not convert downloaded subtitle to srt",action="store_true")
     group.add_argument("--no-xml",help="Do not save the raw xml subtitle",action="store_true")
     parser.add_argument("--languages",help="Specify languages you want to save in two letter country code as used by HBO Nordic ",nargs='+',choices=['SV','DA','NO','FI'])
+    parser.add_argument("--languages",help="Specify languages to save in two letter country code as used by HBO Nordic ",nargs='+',choices=['SV','DA','NO','FI'])
     args = parser.parse_args()
     
     HBO = HBONordicSubtitleDownloader()
