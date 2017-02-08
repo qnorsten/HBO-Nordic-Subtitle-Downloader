@@ -9,13 +9,16 @@
 #Example season url = "https://api-hbon.hbo.clearleap.com/cloffice/client/web/browse/3bc87b76-737d-4c32-8d1b-8d0257c1e7c8"
 #Example one episode url = "https://se.hbonordic.com/series/gomorrah/season-1/episode-1/1f10ced-005e3fa02dc"
 
-from urllib.parse import urlparse, urljoin
-import requests
-from bs4 import BeautifulSoup as Soup
 import sys
 import re
 import unicodedata
 import argparse
+from urllib.parse import urlparse, urljoin
+
+import requests
+from bs4 import BeautifulSoup as Soup
+
+__version__ = '0.1.0'
 
 class HBONordicSubtitleDownloader():
     def __init__(self):
@@ -178,6 +181,7 @@ class HBONordicSubtitleDownloader():
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Download subtitles from hbo nordic")
     parser.add_argument("url",help="The url to the movie or series to download subtitles from")
+    parser.add_argument("--version", help="Displays the current version",action='version', version=__version__)
     group = parser.add_mutually_exclusive_group()
     group.add_argument("--no-srt",help="Do not convert downloaded subtitle to srt",action="store_true")
     group.add_argument("--no-xml",help="Do not save the raw xml subtitle",action="store_true")
