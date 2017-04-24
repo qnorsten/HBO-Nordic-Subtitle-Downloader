@@ -1,268 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><tt xml:lang="fi" xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:frameRate="25" ttp:markerMode="continuous" ttp:timeBase="smpte">
-	<head>
-		<styling>
-			<style id="Swift" tts:color="white" tts:textAlign="left" tts:extent="720px 576px" tts:fontFamily="Arial" tts:fontSize="36"/>
-		</styling>
-	</head>
-	<body>
-		<div style="Swift">
-			<p xml:id="0" xml:space="preserve" begin="00:00:22.960" end="00:00:25.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän laittoi kuvan<br/>äidistä ja minusta "bookiin".</p>
-			<p xml:id="1" xml:space="preserve" begin="00:00:26.040" end="00:00:29.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Facebook on sosiaalinen yhteisö.</p>
-			<p xml:id="2" xml:space="preserve" begin="00:00:29.600" end="00:00:34.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitäisikö minun olla huolissani?<br/>-Ei. Kaikki ovat siellä.</p>
-			<p xml:id="3" xml:space="preserve" begin="00:00:34.560" end="00:00:38.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä hittoa he sinne kirjoittelevat?</p>
-			<p xml:id="4" xml:space="preserve" begin="00:00:38.960" end="00:00:43.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sinne kirjoitetaan omia juttuja.<br/>-Sittenhän kaikki näkevät ne.</p>
-			<p xml:id="5" xml:space="preserve" begin="00:00:43.640" end="00:00:45.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vain kaikki kaverit.</p>
-			<p xml:id="6" xml:space="preserve" begin="00:00:47.800" end="00:00:50.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Panen päreiksi sen tietokoneen.</p>
-			<p xml:id="7" xml:space="preserve" begin="00:01:47.520" end="00:01:51.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mikä tuo laulu on? Se on liian<br/>nykyaikainen minun makuuni.</p>
-			<p xml:id="8" xml:space="preserve" begin="00:01:51.160" end="00:01:54.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sinä oletkin kalkkis-Attilio.<br/>-Minä en pidä siitä.</p>
-			<p xml:id="9" xml:space="preserve" begin="00:01:58.320" end="00:02:01.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minusta me teemme suuren virheen.</p>
-			<p xml:id="10" xml:space="preserve" begin="00:02:01.320" end="00:02:04.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Don Pietron pitäisi puhua<br/>Conten kanssa.</p>
-			<p xml:id="11" xml:space="preserve" begin="00:02:12.640" end="00:02:14.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Etkö pidä tästä?</p>
-			<p xml:id="12" xml:space="preserve" begin="00:03:12.320" end="00:03:15.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span xml:space="preserve" tts:fontStyle="italic">Kuka siellä?</span><br/><span xml:space="preserve" tts:fontStyle="italic">-Minä täällä, äiti.</span></p>
-			<p xml:id="13" xml:space="preserve" begin="00:03:40.360" end="00:03:42.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mene.</p>
-			<p xml:id="14" xml:space="preserve" begin="00:03:47.360" end="00:03:50.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Onko kaikki hyvin?<br/>-On. Hän meni hissiin.</p>
-			<p xml:id="15" xml:space="preserve" begin="00:04:35.760" end="00:04:42.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Poltatko ruokapöydässäkin?<br/>-Ei tämä ole oikea.</p>
-			<p xml:id="16" xml:space="preserve" begin="00:04:44.000" end="00:04:48.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yritän päästä irti paheesta.<br/>-Siitä tulee silti savua.</p>
-			<p xml:id="17" xml:space="preserve" begin="00:04:50.560" end="00:04:53.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ruokapöydässä ei tupakoida.</p>
-			<p xml:id="18" xml:space="preserve" begin="00:05:00.240" end="00:05:06.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Herra, siunaa ruokamme. Aamen.<br/>-Aamen.</p>
-			<p xml:id="19" xml:space="preserve" begin="00:05:39.560" end="00:05:44.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sinun pitäisi osallistua<br/>tv:n ruoanlaitto-ohjelmaan.</p>
-			<p xml:id="20" xml:space="preserve" begin="00:05:51.000" end="00:05:52.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mennään.</p>
-			<p xml:id="21" xml:space="preserve" begin="00:06:10.960" end="00:06:15.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä siellä tapahtuu?<br/>-Ei mitään hätää, äiti.</p>
-			<p xml:id="22" xml:space="preserve" begin="00:06:16.440" end="00:06:19.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ne paskiaiset sytyttivät tulipalon.<br/>Tulkaa tänne!</p>
-			<p xml:id="23" xml:space="preserve" begin="00:06:19.800" end="00:06:22.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Herran tähden.<br/>-Rauhoitu.</p>
-			<p xml:id="24" xml:space="preserve" begin="00:06:30.320" end="00:06:32.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tule.</p>
-			<p xml:id="25" xml:space="preserve" begin="00:06:40.520" end="00:06:43.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Odota siinä.</p>
-			<p xml:id="26" xml:space="preserve" begin="00:06:48.000" end="00:06:54.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Isä meidän, joka olet taivaissa,<br/>pyhitetty olkoon sinun nimesi...</p>
-			<p xml:id="27" xml:space="preserve" begin="00:06:54.760" end="00:06:57.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haloo. Ilmoittaisin tulipalosta.</p>
-			<p xml:id="28" xml:space="preserve" begin="00:06:58.240" end="00:07:05.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Via Stornaiolo 71:ssä palaa.<br/>Liekit näkyvät kadulle saakka.</p>
-			<p xml:id="29" xml:space="preserve" begin="00:07:05.920" end="00:07:10.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En halua kertoa nimeäni.</p>
-			<p xml:id="30" xml:space="preserve" begin="00:07:19.320" end="00:07:25.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pyhä Jumalan äiti,<br/>rukoile meidän syntisten puolesta.</p>
-			<p xml:id="31" xml:space="preserve" begin="00:07:31.600" end="00:07:37.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Täällä haisee bensa.<br/>-Kanisteri vuoti.</p>
-			<p xml:id="32" xml:space="preserve" begin="00:07:37.880" end="00:07:40.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kippis.</p>
-			<p xml:id="33" xml:space="preserve" begin="00:07:42.000" end="00:07:45.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Annammeko Pupettalle tonnin?<br/>-Miksi?</p>
-			<p xml:id="34" xml:space="preserve" begin="00:07:45.320" end="00:07:47.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Saimme viisi tuhatta.</p>
-			<p xml:id="35" xml:space="preserve" begin="00:07:51.320" end="00:07:55.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sanotaan kuusi tuhatta.</p>
-			<p xml:id="36" xml:space="preserve" begin="00:07:59.360" end="00:08:04.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Alfredo,<br/>näitä rahoja ei saa törsätä hevosiin.</p>
-			<p xml:id="37" xml:space="preserve" begin="00:08:04.280" end="00:08:07.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Älä sitten anna niitä hänelle.<br/>-Haista paska.</p>
-			<p xml:id="38" xml:space="preserve" begin="00:08:08.640" end="00:08:13.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vaatteeni lemuavat.<br/>Menen vaihtamaan. Tuletko mukaan?</p>
-			<p xml:id="39" xml:space="preserve" begin="00:08:15.000" end="00:08:17.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hei hei.<br/>-Hei hei.</p>
-			<p xml:id="40" xml:space="preserve" begin="00:10:28.400" end="00:10:30.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Päivää.<br/>-Päivää, Imma.</p>
-			<p xml:id="41" xml:space="preserve" begin="00:10:30.520" end="00:10:32.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Käykää sisään.</p>
-			<p xml:id="42" xml:space="preserve" begin="00:10:34.800" end="00:10:37.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Otatteko kahvia?<br/>-Emme halua olla vaivaksi.</p>
-			<p xml:id="43" xml:space="preserve" begin="00:10:37.920" end="00:10:40.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei siitä ole mitään vaivaa.</p>
-			<p xml:id="44" xml:space="preserve" begin="00:10:40.560" end="00:10:44.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Carmela, keitä kahvia.<br/>-Selvä.</p>
-			<p xml:id="45" xml:space="preserve" begin="00:10:50.600" end="00:10:52.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä sinä teet?</p>
-			<p xml:id="46" xml:space="preserve" begin="00:10:55.640" end="00:10:59.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Katselitko hänen persettään?<br/>-Älä viitsi.</p>
-			<p xml:id="47" xml:space="preserve" begin="00:11:00.040" end="00:11:01.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei mitään häpyä.</p>
-			<p xml:id="48" xml:space="preserve" begin="00:11:01.720" end="00:11:07.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Curcio sai 1,78,<br/>ja De Rosa sai 1,24 ja 90.</p>
-			<p xml:id="49" xml:space="preserve" begin="00:11:09.200" end="00:11:13.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oletko varma, Don Pietro?</p>
-			<p xml:id="50" xml:space="preserve" begin="00:11:14.400" end="00:11:19.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos Conte tulee osingoille,<br/>olemme pulassa.</p>
-			<p xml:id="51" xml:space="preserve" begin="00:11:19.320" end="00:11:22.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">En pidä siitä, jos Conte haistattaa<br/>meille taas paskat.</p>
-			<p xml:id="52" xml:space="preserve" begin="00:11:22.800" end="00:11:29.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Totta, mutta varo sanojasi.<br/>Täällä on nainen. -Anteeksi, Imma.</p>
-			<p xml:id="53" xml:space="preserve" begin="00:11:29.800" end="00:11:35.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Conte tietää, ettei meidän kanssamme<br/>kannata pelleillä. -Oletko varma?</p>
-			<p xml:id="54" xml:space="preserve" begin="00:11:40.360" end="00:11:44.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Rauhoitu, De Rosa.<br/>Sinä hoidat homman.</p>
-			<p xml:id="55" xml:space="preserve" begin="00:11:44.720" end="00:11:46.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Gennaro.</p>
-			<p xml:id="56" xml:space="preserve" begin="00:11:49.360" end="00:11:53.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Liite kaksi: Russon kerroin on 14.</p>
-			<p xml:id="57" xml:space="preserve" begin="00:11:54.120" end="00:11:58.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minäkin olisin halunnut nähdä,<br/>kun se paskiainen kiemurtelee.</p>
-			<p xml:id="58" xml:space="preserve" begin="00:11:59.440" end="00:12:03.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kohta näemme, ottiko hän opikseen.<br/>-Hän säikähti.</p>
-			<p xml:id="59" xml:space="preserve" begin="00:12:04.120" end="00:12:06.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Entä jos hän ei ottanut opikseen?</p>
-			<p xml:id="60" xml:space="preserve" begin="00:12:14.160" end="00:12:16.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sitten näytämme hänelle uudestaan -</p>
-			<p xml:id="61" xml:space="preserve" begin="00:12:16.840" end="00:12:20.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">että säännöt laadin minä,<br/>eikä Salvatore Conte.</p>
-			<p xml:id="62" xml:space="preserve" begin="00:12:31.840" end="00:12:35.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Anteeksi, rouva Imma.<br/>-Hei, Ciro.</p>
-			<p xml:id="63" xml:space="preserve" begin="00:12:35.480" end="00:12:41.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olisin kysynyt don Pietrolta,<br/>voinko jo lähteä. -Mene vain.</p>
-			<p xml:id="64" xml:space="preserve" begin="00:12:41.760" end="00:12:46.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Näkemiin.<br/>-Ciro, pidätkö tuosta sohvasta?</p>
-			<p xml:id="65" xml:space="preserve" begin="00:12:48.040" end="00:12:53.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se on upea.<br/>-Sinä saat sen.</p>
-			<p xml:id="66" xml:space="preserve" begin="00:12:55.480" end="00:13:00.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Etkö halua sitä?<br/>-En tiedä, voinko ottaa sitä vastaan.</p>
-			<p xml:id="67" xml:space="preserve" begin="00:13:00.240" end="00:13:04.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tekisit minulle palveluksen. Uusi<br/>sohva tuodaan tänään tai huomenna.</p>
-			<p xml:id="68" xml:space="preserve" begin="00:13:05.080" end="00:13:10.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Genny voi auttaa sinua.<br/>Genny, tule auttamaan Ciroa!</p>
-			<p xml:id="69" xml:space="preserve" begin="00:13:14.000" end="00:13:15.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiristä.</p>
-			<p xml:id="70" xml:space="preserve" begin="00:13:18.080" end="00:13:19.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kiitos, Gennaro.</p>
-			<p xml:id="71" xml:space="preserve" begin="00:13:20.080" end="00:13:22.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ciro...</p>
-			<p xml:id="72" xml:space="preserve" begin="00:13:23.760" end="00:13:28.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kutsu minutkin, kun menet seuraavan<br/>kerran grillaamaan Conten luo.</p>
-			<p xml:id="73" xml:space="preserve" begin="00:13:28.320" end="00:13:32.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kyllä sinäkin vielä pääset mukaan.</p>
-			<p xml:id="74" xml:space="preserve" begin="00:13:33.400" end="00:13:35.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Muista soittaa minulle.</p>
-			<p xml:id="75" xml:space="preserve" begin="00:13:36.160" end="00:13:38.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ymmärsitkö?</p>
-			<p xml:id="76" xml:space="preserve" begin="00:13:38.520" end="00:13:42.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Näkemiin.<br/>-Näkemiin.</p>
-			<p xml:id="77" xml:space="preserve" begin="00:14:03.120" end="00:14:06.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Oletko varma? Selvä.</p>
-			<p xml:id="78" xml:space="preserve" begin="00:14:07.080" end="00:14:10.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Veikö Ciro vanhan sohvan?<br/>-Vei.</p>
-			<p xml:id="79" xml:space="preserve" begin="00:14:10.160" end="00:14:12.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Uusi sohva ei ole hyvä.</p>
-			<p xml:id="80" xml:space="preserve" begin="00:14:14.080" end="00:14:16.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se ei ole hyvä.</p>
-			<p xml:id="81" xml:space="preserve" begin="00:14:18.160" end="00:14:21.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Capanotkin ovat käyneet<br/>Sharm al Sheikissä.</p>
-			<p xml:id="82" xml:space="preserve" begin="00:14:21.720" end="00:14:25.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ihan sama, mitä Capanot tekevät.<br/>-Olet lihonut.</p>
-			<p xml:id="83" xml:space="preserve" begin="00:14:25.200" end="00:14:29.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olen ahminut liikaa lihapullia.<br/>-Hän on syönyt vain 15.</p>
-			<p xml:id="84" xml:space="preserve" begin="00:14:29.840" end="00:14:32.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänellä on varmasti lapamato.</p>
-			<p xml:id="85" xml:space="preserve" begin="00:14:32.200" end="00:14:37.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Lapsilla olisi hauskaa Sharm el<br/>Sheikissä. -Heillä on hauskaa aina.</p>
-			<p xml:id="86" xml:space="preserve" begin="00:14:37.600" end="00:14:41.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sharm el Sheikissä olisi hauskempaa.<br/>-Oletpa sinä nätti.</p>
-			<p xml:id="87" xml:space="preserve" begin="00:14:46.920" end="00:14:49.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">On jo myöhä. Attilio!</p>
-			<p xml:id="88" xml:space="preserve" begin="00:14:51.880" end="00:14:55.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän pitää lähteä.<br/>-Minä en jaksa.</p>
-			<p xml:id="89" xml:space="preserve" begin="00:14:57.320" end="00:15:03.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Menen sitten yksin.<br/>Soitan sinulle myöhemmin. -Selvä.</p>
-			<p xml:id="90" xml:space="preserve" begin="00:15:21.080" end="00:15:25.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hei, Toupè ja Gigì.<br/>-Hei, Ciro. Otatko kahvin?</p>
-			<p xml:id="91" xml:space="preserve" begin="00:15:25.920" end="00:15:30.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ciro, panivatko he sinut asialle?<br/>-Kyllä.</p>
-			<p xml:id="92" xml:space="preserve" begin="00:15:32.960" end="00:15:35.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kaikki on kirjattu.</p>
-			<p xml:id="93" xml:space="preserve" begin="00:15:35.520" end="00:15:41.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Voisinko pyytää palvelusta?<br/>-Kerro pois.</p>
-			<p xml:id="94" xml:space="preserve" begin="00:15:41.520" end="00:15:46.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Asiani koskee vaimoni veljenpoikaa.<br/>Hän on kunnon poika, mutta...</p>
-			<p xml:id="95" xml:space="preserve" begin="00:17:56.760" end="00:18:01.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ainakin kolme kuoli,<br/>ja lattialla makasi haavoittuneita.</p>
-			<p xml:id="96" xml:space="preserve" begin="00:18:02.040" end="00:18:04.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ne paskiaiset heittivät kaksi pommia.</p>
-			<p xml:id="97" xml:space="preserve" begin="00:18:05.160" end="00:18:10.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oletko sinä kunnossa?<br/>-Etkö näe? Sinä olisit kuollut.</p>
-			<p xml:id="98" xml:space="preserve" begin="00:18:11.120" end="00:18:16.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Teimme virheen. Tiesin,<br/>että Conte kostaa tulipalon jälkeen.</p>
-			<p xml:id="99" xml:space="preserve" begin="00:18:16.160" end="00:18:19.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Älä kerro tästä Pietrolle.</p>
-			<p xml:id="100" xml:space="preserve" begin="00:18:26.400" end="00:18:31.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Joku meistä olisi voinut olla siellä.</p>
-			<p xml:id="101" xml:space="preserve" begin="00:18:33.880" end="00:18:39.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos joku meistä olisi ollut siellä,<br/>surisimme nyt vainajaa.</p>
-			<p xml:id="102" xml:space="preserve" begin="00:18:40.760" end="00:18:45.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">He ammuskelivat<br/>meidän baarissamme sunnuntaina.</p>
-			<p xml:id="103" xml:space="preserve" begin="00:18:45.280" end="00:18:50.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siellä olisi voinut olla lapsia.<br/>Tätä me emme voi antaa anteeksi.</p>
-			<p xml:id="104" xml:space="preserve" begin="00:18:51.560" end="00:18:58.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän täytyy kostaa.<br/>Meidän täytyy tuhota se käärme.</p>
-			<p xml:id="105" xml:space="preserve" begin="00:18:59.240" end="00:19:03.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän piileskelee kuulemma talossa,<br/>jonka alakerrassa on hattuliike.</p>
-			<p xml:id="106" xml:space="preserve" begin="00:19:03.640" end="00:19:07.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ihan sama, missä hän on.<br/>Mennään hakemaan hänet.</p>
-			<p xml:id="107" xml:space="preserve" begin="00:19:07.360" end="00:19:14.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän täytyy tehdä suunnitelma.<br/>Hätyytetään hänet ensin ulos.</p>
-			<p xml:id="108" xml:space="preserve" begin="00:19:14.400" end="00:19:20.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Miksi? -Jos menemme sisälle,<br/>meillekin voi käydä huonosti.</p>
-			<p xml:id="109" xml:space="preserve" begin="00:19:20.560" end="00:19:25.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Enkö tehnyt asiaani selväksi?<br/>-Meidän täytyy tehdä suunnitelma.</p>
-			<p xml:id="110" xml:space="preserve" begin="00:19:25.200" end="00:19:29.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän on varmasti varuillaan.<br/>-Miksi sinä epäröit, Africà?</p>
-			<p xml:id="111" xml:space="preserve" begin="00:19:29.760" end="00:19:34.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Empisitkö, jos sinun lapsesi<br/>olisi ollut siinä baarissa?</p>
-			<p xml:id="112" xml:space="preserve" begin="00:19:34.760" end="00:19:36.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Emmitkö sinäkin?</p>
-			<p xml:id="113" xml:space="preserve" begin="00:19:37.800" end="00:19:41.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entä sinä?<br/>-Meidän pitää miettiä, miten...</p>
-			<p xml:id="114" xml:space="preserve" begin="00:19:41.320" end="00:19:43.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Suu kiinni.</p>
-			<p xml:id="115" xml:space="preserve" begin="00:19:45.520" end="00:19:51.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidän olisi pitänyt<br/>hoidella Conte aikoja sitten.</p>
-			<p xml:id="116" xml:space="preserve" begin="00:20:34.240" end="00:20:39.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Miten me pääsemme tuonne?<br/>Vahteja on kaikkialla.</p>
-			<p xml:id="117" xml:space="preserve" begin="00:20:41.240" end="00:20:47.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä mieltä olet? Etsimmekö me<br/>Contea, vai etsiikö hän meitä?</p>
-			<p xml:id="118" xml:space="preserve" begin="00:20:47.720" end="00:20:51.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Meidät löydettiin jo.<br/>-Olen tosissani.</p>
-			<p xml:id="119" xml:space="preserve" begin="00:20:56.080" end="00:21:00.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Salvatore Conte ja don Pietro<br/>vievät meitä kuin pässejä narussa.</p>
-			<p xml:id="120" xml:space="preserve" begin="00:21:00.960" end="00:21:06.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pietro Savastano ei saavuttanut<br/>asemaansa kauniiden silmiensä takia.</p>
-			<p xml:id="121" xml:space="preserve" begin="00:21:13.520" end="00:21:15.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tiedätkö, mitä mieltä minä olen?</p>
-			<p xml:id="122" xml:space="preserve" begin="00:21:16.280" end="00:21:21.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pietro Savastano on tullut vanhaksi,<br/>ja Salvatore Conte on huomannut sen.</p>
-			<p xml:id="123" xml:space="preserve" begin="00:21:31.040" end="00:21:37.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitäisikö meidän hakea uusi sohva<br/>vaikkapa Salernosta?</p>
-			<p xml:id="124" xml:space="preserve" begin="00:21:37.320" end="00:21:39.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei, Immacolà.</p>
-			<p xml:id="125" xml:space="preserve" begin="00:21:39.680" end="00:21:43.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitäisikö meidän ostaa samanlainen<br/>sohva, vaikka tiedämme, että...</p>
-			<p xml:id="126" xml:space="preserve" begin="00:21:44.000" end="00:21:46.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Emme voi tehdä mitään.</p>
-			<p xml:id="127" xml:space="preserve" begin="00:21:49.840" end="00:21:53.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Emme voi huudella tästä kaikille.</p>
-			<p xml:id="128" xml:space="preserve" begin="00:21:53.520" end="00:21:58.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minä olisin piessyt myyjät.</p>
-			<p xml:id="129" xml:space="preserve" begin="00:21:59.360" end="00:22:01.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Eivät he tajua paskaakaan.</p>
-			<p xml:id="130" xml:space="preserve" begin="00:22:02.120" end="00:22:06.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siisti suusi.<br/>-Emme voi tehdä mitään.</p>
-			<p xml:id="131" xml:space="preserve" begin="00:22:06.960" end="00:22:09.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lattiallako meidän pitäisi istua?</p>
-			<p xml:id="132" xml:space="preserve" begin="00:22:35.960" end="00:22:38.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mene vain.</p>
-			<p xml:id="133" xml:space="preserve" begin="00:22:56.440" end="00:22:58.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Reitti on selvä!</p>
-			<p xml:id="134" xml:space="preserve" begin="00:23:56.560" end="00:23:58.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Päivää.</p>
-			<p xml:id="135" xml:space="preserve" begin="00:24:15.000" end="00:24:16.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Nopeasti.</p>
-			<p xml:id="136" xml:space="preserve" begin="00:24:18.360" end="00:24:20.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Muistatko?<br/>-Tietysti.</p>
-			<p xml:id="137" xml:space="preserve" begin="00:24:24.640" end="00:24:28.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tuonne on kuulemma perustettu<br/>uusi bisnes.</p>
-			<p xml:id="138" xml:space="preserve" begin="00:24:28.320" end="00:24:32.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Siellä on bordelli.<br/>Menekki on laskenut sen vuoksi.</p>
-			<p xml:id="139" xml:space="preserve" begin="00:24:33.520" end="00:24:37.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oletko puhunut Pietron kanssa?<br/>-Puhuin Bollettan kanssa.</p>
-			<p xml:id="140" xml:space="preserve" begin="00:24:54.520" end="00:24:56.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitään ei ole tehtävissä.</p>
-			<p xml:id="141" xml:space="preserve" begin="00:24:59.320" end="00:25:03.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Yritin puhua hänelle,<br/>mutta hän ei kuuntele.</p>
-			<p xml:id="142" xml:space="preserve" begin="00:25:03.280" end="00:25:07.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän haluaa, että hävitämme<br/>Conten kodin maan tasalle -</p>
-			<p xml:id="143" xml:space="preserve" begin="00:25:07.120" end="00:25:09.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">kuten hän teki meille.</p>
-			<p xml:id="144" xml:space="preserve" begin="00:25:09.280" end="00:25:12.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sitten poliisit ja toimittajat<br/>ovat taas kimpussamme.</p>
-			<p xml:id="145" xml:space="preserve" begin="00:25:13.040" end="00:25:18.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Missä hän piileskelee? -Hän on varma,<br/>että huomenna hän on täällä.</p>
-			<p xml:id="146" xml:space="preserve" begin="00:25:19.040" end="00:25:22.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mistä hän sen tietää?<br/>-Mistä minä tietäisin?</p>
-			<p xml:id="147" xml:space="preserve" begin="00:25:23.040" end="00:25:25.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän on raivoissaan.</p>
-			<p xml:id="148" xml:space="preserve" begin="00:25:25.280" end="00:25:29.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Conte kuulemma levittää huhuja,<br/>että Savastano kusettaa meitä.</p>
-			<p xml:id="149" xml:space="preserve" begin="00:25:29.440" end="00:25:35.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä minä sanoin. -Riittää jo.<br/>Teemme niin kuin hän käskee.</p>
-			<p xml:id="150" xml:space="preserve" begin="00:25:37.160" end="00:25:39.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lähdetään.</p>
-			<p xml:id="151" xml:space="preserve" begin="00:25:51.280" end="00:25:54.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Älä panettele Pietroa muiden kuullen.</p>
-			<p xml:id="152" xml:space="preserve" begin="00:25:54.280" end="00:26:00.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Joku voi kertoa hänelle,<br/>ja silloin sinä saat kuulan kalloosi.</p>
-			<p xml:id="153" xml:space="preserve" begin="00:26:01.960" end="00:26:04.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hän saattaa panna asialle minut.</p>
-			<p xml:id="154" xml:space="preserve" begin="00:26:17.080" end="00:26:22.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pino, voisitko lainata rahaa?<br/>-Ei minulla ole.</p>
-			<p xml:id="155" xml:space="preserve" begin="00:26:24.280" end="00:26:26.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Maksan takaisin ensi viikolla.</p>
-			<p xml:id="156" xml:space="preserve" begin="00:26:26.560" end="00:26:29.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Onko sinulla pikkuleivät<br/>jalkojen paikalla?</p>
-			<p xml:id="157" xml:space="preserve" begin="00:26:31.920" end="00:26:36.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onko niissä mantelia?</p>
-			<p xml:id="158" xml:space="preserve" begin="00:26:39.840" end="00:26:42.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä vikaa näissä kengissä on?</p>
-			<p xml:id="159" xml:space="preserve" begin="00:26:42.920" end="00:26:49.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Naurakaa pois.<br/>Genny lainaa minulle rahaa varmasti.</p>
-			<p xml:id="160" xml:space="preserve" begin="00:26:49.120" end="00:26:51.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hänellä on vieras.</p>
-			<p xml:id="161" xml:space="preserve" begin="00:26:54.120" end="00:26:59.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tule tänne, pikkuleipä.<br/>Annetaan hänelle aplodit.</p>
-			<p xml:id="162" xml:space="preserve" begin="00:26:59.800" end="00:27:02.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sanitàssa on laskettu hintoja.</p>
-			<p xml:id="163" xml:space="preserve" begin="00:27:03.800" end="00:27:06.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Heroiiniannos maksaa 11 euroa.</p>
-			<p xml:id="164" xml:space="preserve" begin="00:27:07.640" end="00:27:11.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Se johtuu kuulemma siitä,<br/>että siellä on uusi yrittäjä.</p>
-			<p xml:id="165" xml:space="preserve" begin="00:27:13.840" end="00:27:16.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minä en usko, että se johtuu siitä.</p>
-			<p xml:id="166" xml:space="preserve" begin="00:27:17.440" end="00:27:20.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mistä sitten?<br/>-Heillä on loppuunmyynti.</p>
-			<p xml:id="167" xml:space="preserve" begin="00:27:22.040" end="00:27:25.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sinne tulee bordelli ja vartijoita -</p>
-			<p xml:id="168" xml:space="preserve" begin="00:27:25.800" end="00:27:28.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">ja jos siellä on vartijoita,<br/>ostajia ei tule.</p>
-			<p xml:id="169" xml:space="preserve" begin="00:27:34.440" end="00:27:36.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Iskettekö huomenna?</p>
-			<p xml:id="170" xml:space="preserve" begin="00:27:41.520" end="00:27:44.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minä haluan tulla mukaan.<br/>-Miksi ihmeessä?</p>
-			<p xml:id="171" xml:space="preserve" begin="00:27:44.760" end="00:27:49.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Sinä päätät siitä. -Minä<br/>en päätä mistään. Isäsi päättää.</p>
-			<p xml:id="172" xml:space="preserve" begin="00:27:55.720" end="00:28:02.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Haluan näyttää isälle, että pystyn<br/>siihen. Sinun kanssasi pystyn siihen.</p>
-			<p xml:id="173" xml:space="preserve" begin="00:28:03.520" end="00:28:08.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tiedän, että pystyt siihen,<br/>mutta se on vaarallinen keikka.</p>
-			<p xml:id="174" xml:space="preserve" begin="00:28:11.760" end="00:28:17.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos haluat, että isäsi<br/>on tyytyväinen, jää kotiin.</p>
-			<p xml:id="175" xml:space="preserve" begin="00:28:28.000" end="00:28:30.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pelottaako sinua?</p>
-			<p xml:id="176" xml:space="preserve" begin="00:28:32.440" end="00:28:34.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Onko siinä jotain outoa?</p>
-			<p xml:id="177" xml:space="preserve" begin="00:28:38.120" end="00:28:43.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jos isä päästää minut,<br/>minä turvaan sinun selustasi.</p>
-			<p xml:id="178" xml:space="preserve" begin="00:28:47.520" end="00:28:49.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Varmasti.</p>
-			<p xml:id="179" xml:space="preserve" begin="00:30:00.800" end="00:30:04.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Anna toinen lupa<br/>Diotallevi Attiliolle.</p>
-			<p xml:id="180" xml:space="preserve" begin="00:30:06.880" end="00:30:09.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Mitä odotat?</p>
-			<p xml:id="181" xml:space="preserve" begin="00:30:10.880" end="00:30:14.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ottaako hänkin kolme lipasta?<br/>-Kyllä.</p>
-			<p xml:id="182" xml:space="preserve" begin="00:30:17.080" end="00:30:21.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ota lupa myös Attiliolle,<br/>Centocapellille ja Liscalle.</p>
-			<p xml:id="183" xml:space="preserve" begin="00:30:29.960" end="00:30:32.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Anna kamat.</p>
-			<p xml:id="184" xml:space="preserve" begin="00:31:04.680" end="00:31:06.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hei.</p>
-			<p xml:id="185" xml:space="preserve" begin="00:31:12.520" end="00:31:15.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Milloin lähdet?<br/>-Kohta.</p>
-			<p xml:id="186" xml:space="preserve" begin="00:31:24.320" end="00:31:26.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pane ovi kiinni.</p>
-			<p xml:id="187" xml:space="preserve" begin="00:32:00.880" end="00:32:03.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Missä kahvi on?<br/>-Tuolla.</p>
-			<p xml:id="188" xml:space="preserve" begin="00:32:16.560" end="00:32:18.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Olette surkeita.</p>
-			<p xml:id="189" xml:space="preserve" begin="00:32:19.640" end="00:32:22.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Istukaa alas, idiootit.<br/>-Luana.</p>
-			<p xml:id="190" xml:space="preserve" begin="00:32:28.600" end="00:32:32.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Isä, saanko mennä tänä iltana<br/>Ciron mukaan?</p>
-			<p xml:id="191" xml:space="preserve" begin="00:32:35.720" end="00:32:39.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Isä...<br/>-Et mene.</p>
-			<p xml:id="192" xml:space="preserve" begin="00:32:39.640" end="00:32:43.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olisin koko ajan Ciron kanssa.<br/>-Et mene.</p>
-			<p xml:id="193" xml:space="preserve" begin="00:32:43.640" end="00:32:47.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mene pitämään hauskaa.<br/>Kyllä sinunkin hetkesi vielä koittaa.</p>
-			<p xml:id="194" xml:space="preserve" begin="00:32:49.840" end="00:32:53.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Et anna minulle koskaan<br/>tilaisuutta näyttää taitojani.</p>
-			<p xml:id="195" xml:space="preserve" begin="00:32:53.440" end="00:32:57.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Olen poikani.<br/>Sinun ei tarvitse näyttää taitojasi.</p>
-			<p xml:id="196" xml:space="preserve" begin="00:33:31.440" end="00:33:37.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Katso eteesi.<br/>-Haluan kuolla hiukset kammattuina.</p>
-			<p xml:id="197" xml:space="preserve" begin="00:33:37.880" end="00:33:42.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Seuraavalla kerralla ostamme Liscalle<br/>takin lasten vaatekaupasta.</p>
-			<p xml:id="198" xml:space="preserve" begin="00:33:42.600" end="00:33:45.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuulitko, Lisca?<br/>-Haistakaa paska.</p>
-			<p xml:id="199" xml:space="preserve" begin="00:34:32.960" end="00:34:36.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä kuuluu, Michè?<br/>-Hyvää. Entä sinulle?</p>
-			<p xml:id="200" xml:space="preserve" begin="00:34:36.320" end="00:34:38.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvää.</p>
-			<p xml:id="201" xml:space="preserve" begin="00:34:40.880" end="00:34:46.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Lucia on oikea biljardihai.<br/>-Minulla on luja ote.</p>
-			<p xml:id="202" xml:space="preserve" begin="00:34:46.400" end="00:34:49.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kuulitko, Gennaro?<br/>Hänellä on luja ote.</p>
-			<p xml:id="203" xml:space="preserve" begin="00:34:49.520" end="00:34:54.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vieläkö sinua sapettaa?<br/>-Kyllä.</p>
-			<p xml:id="204" xml:space="preserve" begin="00:35:10.680" end="00:35:14.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Saanko tarjota juotavaa?<br/>-Hän on minun kanssani.</p>
-			<p xml:id="205" xml:space="preserve" begin="00:35:14.920" end="00:35:18.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Onko nimesi Noemi?<br/>-Etkö kuullut, paskiainen?</p>
-			<p xml:id="206" xml:space="preserve" begin="00:35:20.400" end="00:35:23.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lopeta, Gennaro.</p>
-			<p xml:id="207" xml:space="preserve" begin="00:35:23.920" end="00:35:28.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Oliko sinulla asiaa?<br/>-Tämä ei ole meidän paikkamme.</p>
-			<p xml:id="208" xml:space="preserve" begin="00:35:29.560" end="00:35:31.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Heippa, Noemi.</p>
-			<p xml:id="209" xml:space="preserve" begin="00:36:05.200" end="00:36:08.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pue tämä varmuuden vuoksi,<br/>kuolematon.</p>
-			<p xml:id="210" xml:space="preserve" begin="00:36:25.480" end="00:36:27.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tämä on iso virhe.</p>
-			<p xml:id="211" xml:space="preserve" begin="00:41:13.200" end="00:41:15.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio!</p>
-			<p xml:id="212" xml:space="preserve" begin="00:41:18.640" end="00:41:20.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio.</p>
-			<p xml:id="213" xml:space="preserve" begin="00:41:36.320" end="00:41:39.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Koskee.<br/>-Ei mitään hätää.</p>
-			<p xml:id="214" xml:space="preserve" begin="00:41:41.560" end="00:41:43.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ei mitään hätää.</p>
-			<p xml:id="215" xml:space="preserve" begin="00:41:48.680" end="00:41:50.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio.</p>
-			<p xml:id="216" xml:space="preserve" begin="00:41:56.160" end="00:41:58.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio.</p>
-			<p xml:id="217" xml:space="preserve" begin="00:42:12.760" end="00:42:15.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lähdetään. Poliisit tulevat kohta.</p>
-			<p xml:id="218" xml:space="preserve" begin="00:42:15.640" end="00:42:19.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hän on kuollut.<br/>Emme voi auttaa häntä.</p>
-			<p xml:id="219" xml:space="preserve" begin="00:44:23.880" end="00:44:27.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä tämä tarkoittaa?<br/>Ei kotiini saapastella noin vain.</p>
-			<p xml:id="220" xml:space="preserve" begin="00:44:29.480" end="00:44:33.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Halusin tulla kertomaan,<br/>mitä tapahtui.</p>
-			<p xml:id="221" xml:space="preserve" begin="00:44:36.680" end="00:44:38.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kerro.</p>
-			<p xml:id="222" xml:space="preserve" begin="00:44:41.880" end="00:44:46.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Attilio on kuollut. Centocapelli,<br/>Lisca ja Africano kuolivat myös.</p>
-			<p xml:id="223" xml:space="preserve" begin="00:44:46.960" end="00:44:52.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entä se kusipää?<br/>-Hän taisi paeta.</p>
-			<p xml:id="224" xml:space="preserve" begin="00:44:52.280" end="00:44:59.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Entä muut?<br/>-Kaikki hänen kätyrinsä kuolivat.</p>
-			<p xml:id="225" xml:space="preserve" begin="00:45:06.440" end="00:45:11.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvä näinkin. Conte muistaa tämän.</p>
-			<p xml:id="226" xml:space="preserve" begin="00:45:12.680" end="00:45:16.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nyt hän harkitsee kahdesti,<br/>ennen kuin tekee tyhmyyksiä.</p>
-			<p xml:id="227" xml:space="preserve" begin="00:45:28.560" end="00:45:33.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Otan osaa. Tiedän,<br/>että Attilio oli sinulle kuin isä.</p>
-			<p xml:id="228" xml:space="preserve" begin="00:45:36.280" end="00:45:41.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ymmärräthän,<br/>että tämä oli pakko tehdä?</p>
-			<p xml:id="229" xml:space="preserve" begin="00:45:47.560" end="00:45:50.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Minä lähetän haudoille<br/>kukkaseppeleet.</p>
-			<p xml:id="230" xml:space="preserve" begin="00:45:51.320" end="00:45:56.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Pidän huolen heidän perheistään.</p>
-			<p xml:id="231" xml:space="preserve" begin="00:45:57.080" end="00:46:01.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Maksan palkkiot heti.<br/>Myös tyttöystäville.</p>
-			<p xml:id="232" xml:space="preserve" begin="00:46:03.200" end="00:46:08.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hienoa, kuolematon.<br/>Sinäkin saat palkkion.</p>
-			<p xml:id="233" xml:space="preserve" begin="00:46:45.200" end="00:46:48.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vauhtia, Antonio.<br/>Teidän pitää lähteä kouluun.</p>
-			<p xml:id="234" xml:space="preserve" begin="00:46:51.320" end="00:46:56.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Liikettä, Antonio.<br/>Keittiössä on keksejä.</p>
-			<p xml:id="235" xml:space="preserve" begin="00:47:13.560" end="00:47:20.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Luana, pane se pois. Jonain päivänä<br/>pistän sen vielä tuhannen pilkkeiksi.</p>
-			<p xml:id="236" xml:space="preserve" begin="00:47:21.240" end="00:47:23.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vauhtia.</p>
-			<p xml:id="237" xml:space="preserve" begin="00:47:34.760" end="00:47:36.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Haloo.</p>
-			<p xml:id="238" xml:space="preserve" begin="00:47:40.880" end="00:47:44.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mitä mieltä olet?<br/>-Se on kaunis.</p>
-			<p xml:id="239" xml:space="preserve" begin="00:47:45.480" end="00:47:47.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se ei ollut kalliskaan.</p>
-			<p xml:id="240" xml:space="preserve" begin="00:47:52.080" end="00:47:54.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kelpaako?</p>
-			<p xml:id="241" xml:space="preserve" begin="00:47:56.920" end="00:48:00.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kiitos ja näkemiin.<br/>-Näkemiin.</p>
-			<p xml:id="242" xml:space="preserve" begin="00:48:12.520" end="00:48:19.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kokeillaanko tuota ihmettä?<br/>-Kokeillaan pois.</p>
-			<p xml:id="243" xml:space="preserve" begin="00:48:32.520" end="00:48:36.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tämä on kova.<br/>-Niin on.</p>
-			<p xml:id="244" xml:space="preserve" begin="00:48:41.280" end="00:48:43.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Selkänojakin on kova.</p>
-			<p xml:id="245" xml:space="preserve" begin="00:48:44.120" end="00:48:47.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pitääkö sen olla kova,<br/>vai onko tämä viallinen?</p>
-			<p xml:id="246" xml:space="preserve" begin="00:48:47.200" end="00:48:49.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tällainen sen kuuluu olla.</p>
-			<p xml:id="247" xml:space="preserve" begin="00:48:50.560" end="00:48:52.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Minä en pidä tästä.</p>
-			<p xml:id="248" xml:space="preserve" begin="00:48:53.520" end="00:48:55.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tämä pitää vaihtaa.</p>
-			<p xml:id="249" xml:space="preserve" begin="00:48:57.440" end="00:48:59.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sohvan pitää olla mukava.</p>
-			<p xml:id="250" xml:space="preserve" begin="00:49:03.280" end="00:49:05.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Se pitää vaihtaa.</p>
-			<p xml:id="251" xml:space="preserve" begin="00:49:25.480" end="00:49:31.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Helvetin kytät. Työntäkööt<br/>kuuntelulaitteet perseeseensä.</p>
-			<p xml:id="252" xml:space="preserve" begin="00:50:13.080" end="00:50:15.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hyvästi, Attilio.</p>
-			<p xml:id="253" xml:space="preserve" begin="00:50:56.000" end="00:50:57.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Häipykää!</p>
-			<p xml:id="254" xml:space="preserve" begin="00:50:57.840" end="00:51:00.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Liian myöhäistä.<br/>-Eikä ole.</p>
-			<p xml:id="255" xml:space="preserve" begin="00:51:00.280" end="00:51:04.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tulin tänne asti.<br/>Minä olen nyt vahdissa.</p>
-			<p xml:id="256" xml:space="preserve" begin="00:51:21.480" end="00:51:25.480" tts:backgroundColor="black" tts:textAlign="center" tts:fontSize="36px" tts:origin="0px 437px">Suomennos: Suvi Viitala<br/>Broadcast Text International</p>
-		</div>
-	</body>
-</tt>

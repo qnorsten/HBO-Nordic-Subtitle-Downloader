@@ -1,308 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><tt xml:lang="sv" xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:frameRate="25" ttp:markerMode="continuous" ttp:timeBase="smpte">
-	<head>
-		<styling>
-			<style id="Swift" tts:color="white" tts:textAlign="left" tts:extent="720px 576px" tts:fontFamily="Arial" tts:fontSize="36"/>
-		</styling>
-	</head>
-	<body>
-		<div style="Swift">
-			<p xml:id="0" xml:space="preserve" begin="00:00:23.040" end="00:00:27.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hon har lagt upp ett foto<br/>på mamma och mig på "book".</p>
-			<p xml:id="1" xml:space="preserve" begin="00:00:27.240" end="00:00:31.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-På Facebook, ett socialt medium.<br/>-Jag blir ju orolig.</p>
-			<p xml:id="2" xml:space="preserve" begin="00:00:31.200" end="00:00:34.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det ska du inte bli.<br/>Alla unga har Facebook.</p>
-			<p xml:id="3" xml:space="preserve" begin="00:00:34.360" end="00:00:38.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hon håller jämt på med datorn.<br/>Vad fan skriver hon?</p>
-			<p xml:id="4" xml:space="preserve" begin="00:00:38.920" end="00:00:43.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hon skriver vad hon vill.<br/>-Kan alla se det?</p>
-			<p xml:id="5" xml:space="preserve" begin="00:00:43.600" end="00:00:46.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Alla som är hennes vänner.</p>
-			<p xml:id="6" xml:space="preserve" begin="00:00:47.800" end="00:00:52.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag slänger ut datorn,<br/>då lägger hon av.</p>
-			<p xml:id="7" xml:space="preserve" begin="00:01:26.520" end="00:01:29.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Den här delen är bra.</p>
-			<p xml:id="8" xml:space="preserve" begin="00:01:47.680" end="00:01:52.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Låten är för modern för mig.<br/>-Du är gammaldags, Attì.</p>
-			<p xml:id="9" xml:space="preserve" begin="00:01:52.160" end="00:01:56.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag sa ju det.<br/>Den är för modern för mig.</p>
-			<p xml:id="10" xml:space="preserve" begin="00:01:58.440" end="00:02:01.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det här kommer nog gå åt helvete.</p>
-			<p xml:id="11" xml:space="preserve" begin="00:02:01.120" end="00:02:04.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det hade varit bättre<br/>om Don Pietro pratade med Conte.</p>
-			<p xml:id="12" xml:space="preserve" begin="00:02:12.520" end="00:02:15.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Gillar du den inte?</p>
-			<p xml:id="13" xml:space="preserve" begin="00:03:12.080" end="00:03:16.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span xml:space="preserve" tts:fontStyle="italic">-Vem är det?</span><br/>-Det är jag, mamma.</p>
-			<p xml:id="14" xml:space="preserve" begin="00:03:40.440" end="00:03:42.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Åk upp.</p>
-			<p xml:id="15" xml:space="preserve" begin="00:03:47.400" end="00:03:51.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Är det lugnt?<br/>-Det är lugnt. Han har åkt upp.</p>
-			<p xml:id="16" xml:space="preserve" begin="00:04:35.760" end="00:04:39.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Salvatò, rök inte vid bordet.</p>
-			<p xml:id="17" xml:space="preserve" begin="00:04:39.200" end="00:04:44.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det är en låtsascigarett.<br/>Ser du inte lampan?</p>
-			<p xml:id="18" xml:space="preserve" begin="00:04:44.160" end="00:04:46.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag försöker sluta.</p>
-			<p xml:id="19" xml:space="preserve" begin="00:04:46.560" end="00:04:50.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det ryker om den,<br/>även om den är på låtsas.</p>
-			<p xml:id="20" xml:space="preserve" begin="00:04:50.640" end="00:04:53.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Rök inte vid bordet.</p>
-			<p xml:id="21" xml:space="preserve" begin="00:05:00.320" end="00:05:05.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Herre, välsigna oss och maten vi får.<br/>Genom Jesus Kristus. Amen.</p>
-			<p xml:id="22" xml:space="preserve" begin="00:05:06.000" end="00:05:08.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Amen.</p>
-			<p xml:id="23" xml:space="preserve" begin="00:05:39.640" end="00:05:44.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Mamma, du borde vara med<br/>i ett matlagningsprogram.</p>
-			<p xml:id="24" xml:space="preserve" begin="00:05:50.880" end="00:05:53.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tänd på.</p>
-			<p xml:id="25" xml:space="preserve" begin="00:06:06.520" end="00:06:08.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vad är det?</p>
-			<p xml:id="26" xml:space="preserve" begin="00:06:11.040" end="00:06:16.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad har hänt?<br/>-Inget. Håll dig lugn. Vänta.</p>
-			<p xml:id="27" xml:space="preserve" begin="00:06:16.560" end="00:06:19.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">De svinen har tänt på. Kom hit!</p>
-			<p xml:id="28" xml:space="preserve" begin="00:06:19.480" end="00:06:23.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Salvatore...<br/>-Stanna där.</p>
-			<p xml:id="29" xml:space="preserve" begin="00:06:26.200" end="00:06:28.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Var lugn.</p>
-			<p xml:id="30" xml:space="preserve" begin="00:06:30.320" end="00:06:32.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kom här.</p>
-			<p xml:id="31" xml:space="preserve" begin="00:06:34.200" end="00:06:36.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hjälp!</p>
-			<p xml:id="32" xml:space="preserve" begin="00:06:39.960" end="00:06:43.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Sätt dig här. Sätt dig.</p>
-			<p xml:id="33" xml:space="preserve" begin="00:06:47.920" end="00:06:51.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">...full av nåd. Herren är med dig.</p>
-			<p xml:id="34" xml:space="preserve" begin="00:06:51.160" end="00:06:54.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Välsignad är du bland kvinnor,<br/>och välsignad är din livsfrukt Jesus.</p>
-			<p xml:id="35" xml:space="preserve" begin="00:06:54.600" end="00:06:58.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hallå? Jag vill anmäla en brand.</p>
-			<p xml:id="36" xml:space="preserve" begin="00:06:58.360" end="00:07:01.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det brinner på via Stornaiolo 71.</p>
-			<p xml:id="37" xml:space="preserve" begin="00:07:01.920" end="00:07:05.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nej, det vet jag inte.<br/>Man ser elden från gatan.</p>
-			<p xml:id="38" xml:space="preserve" begin="00:07:05.920" end="00:07:11.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nej, jag är ingen särskild.<br/>Jag är en medborgare. Vem som helst.</p>
-			<p xml:id="39" xml:space="preserve" begin="00:07:19.360" end="00:07:23.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Heliga Maria, Guds moder,<br/>be för oss syndare-</p>
-			<p xml:id="40" xml:space="preserve" begin="00:07:23.520" end="00:07:27.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-nu och i vår dödsstund.</p>
-			<p xml:id="41" xml:space="preserve" begin="00:07:31.640" end="00:07:35.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det stinker bensin.<br/>Vad är det för något?</p>
-			<p xml:id="42" xml:space="preserve" begin="00:07:35.080" end="00:07:37.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är väl en läcka.</p>
-			<p xml:id="43" xml:space="preserve" begin="00:07:37.800" end="00:07:40.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Skål.<br/>-Skål!</p>
-			<p xml:id="44" xml:space="preserve" begin="00:07:42.040" end="00:07:47.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Satsar du tusen på Pupetta?<br/>Då vinner vi femtusen.</p>
-			<p xml:id="45" xml:space="preserve" begin="00:07:49.440" end="00:07:53.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Fan ta dig, Alfrè.<br/>-Vi kan vinna sextusen, Attì.</p>
-			<p xml:id="46" xml:space="preserve" begin="00:07:53.360" end="00:07:58.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Sextusen!<br/>-Håll käften.</p>
-			<p xml:id="47" xml:space="preserve" begin="00:07:59.360" end="00:08:03.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Men sköt det snyggt. Jag kan inte<br/>förlora pengar på hästar.</p>
-			<p xml:id="48" xml:space="preserve" begin="00:08:03.880" end="00:08:08.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Då ska du behålla dem.<br/>-Dra åt helvete.</p>
-			<p xml:id="49" xml:space="preserve" begin="00:08:08.760" end="00:08:12.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vad kläderna stinker. Jag måste hem<br/>och byta om. Följer du med?</p>
-			<p xml:id="50" xml:space="preserve" begin="00:08:12.920" end="00:08:14.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vi åker hem.</p>
-			<p xml:id="51" xml:space="preserve" begin="00:08:15.000" end="00:08:18.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hej då med er.<br/>-Hej då.</p>
-			<p xml:id="52" xml:space="preserve" begin="00:10:28.440" end="00:10:32.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-God dag. Varsågod och stig på.<br/>-Tack, Donna Imma.</p>
-			<p xml:id="53" xml:space="preserve" begin="00:10:34.840" end="00:10:37.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vill ni ha kaffe?<br/>-Inget besvär för vår skull.</p>
-			<p xml:id="54" xml:space="preserve" begin="00:10:37.560" end="00:10:40.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det är inget besvär.<br/>-Tusen tack.</p>
-			<p xml:id="55" xml:space="preserve" begin="00:10:40.560" end="00:10:44.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Carmela! Brygg kaffe.<br/><span xml:space="preserve" tts:fontStyle="italic">-Javisst.</span></p>
-			<p xml:id="56" xml:space="preserve" begin="00:10:48.600" end="00:10:52.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vad håller du på med?</p>
-			<p xml:id="57" xml:space="preserve" begin="00:10:55.760" end="00:10:58.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kollar du in hennes häck?</p>
-			<p xml:id="58" xml:space="preserve" begin="00:10:58.320" end="00:11:01.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Verkligen inte.<br/>-Du är ohyfsad.</p>
-			<p xml:id="59" xml:space="preserve" begin="00:11:01.200" end="00:11:07.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Curcio skriver 1,78<br/>och De Rosa skriver 1,2490.</p>
-			<p xml:id="60" xml:space="preserve" begin="00:11:09.200" end="00:11:12.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Don Pietro, är det här säkert?</p>
-			<p xml:id="61" xml:space="preserve" begin="00:11:12.480" end="00:11:17.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag gör som ni säger, men om Contes<br/>företag deltar är vi körda.</p>
-			<p xml:id="62" xml:space="preserve" begin="00:11:17.400" end="00:11:22.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag har varit utan jobb länge och<br/>vill inte bli knullad av Conte igen.</p>
-			<p xml:id="63" xml:space="preserve" begin="00:11:22.480" end="00:11:23.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Visst.</p>
-			<p xml:id="64" xml:space="preserve" begin="00:11:24.040" end="00:11:28.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Men för det första: Tänk på hur<br/>du talar. Det är en dam närvarande.</p>
-			<p xml:id="65" xml:space="preserve" begin="00:11:28.320" end="00:11:29.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ursäkta, Donna Imma.</p>
-			<p xml:id="66" xml:space="preserve" begin="00:11:29.920" end="00:11:34.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">För det andra har Conte nog fattat<br/>att han inte ska göra dumheter.</p>
-			<p xml:id="67" xml:space="preserve" begin="00:11:34.360" end="00:11:37.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Kan vi vara säkra på det?</p>
-			<p xml:id="68" xml:space="preserve" begin="00:11:40.360" end="00:11:44.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Gör som inspektören säger<br/>så vinner du upphandlingen.</p>
-			<p xml:id="69" xml:space="preserve" begin="00:11:44.680" end="00:11:46.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Gennaro.</p>
-			<p xml:id="70" xml:space="preserve" begin="00:11:49.280" end="00:11:53.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bilaga 2. Russo, koefficient 14.</p>
-			<p xml:id="71" xml:space="preserve" begin="00:11:53.960" end="00:11:59.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag hade velat vara där<br/>och sett den jäveln skita på sig.</p>
-			<p xml:id="72" xml:space="preserve" begin="00:11:59.640" end="00:12:04.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Han ska hålla sig på sin plats.<br/>-Och sköta haschaffärerna.</p>
-			<p xml:id="73" xml:space="preserve" begin="00:12:04.160" end="00:12:07.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Och om han inte fattar det?</p>
-			<p xml:id="74" xml:space="preserve" begin="00:12:14.280" end="00:12:20.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Då förklarar vi igen att reglerna<br/>är mina, inte Salvatore Contes.</p>
-			<p xml:id="75" xml:space="preserve" begin="00:12:31.920" end="00:12:35.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Donna Imma, ursäkta mig.<br/>-Ciro.</p>
-			<p xml:id="76" xml:space="preserve" begin="00:12:35.520" end="00:12:39.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag är klar och vill fråga<br/>Don Pietro om jag får gå.</p>
-			<p xml:id="77" xml:space="preserve" begin="00:12:39.360" end="00:12:42.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det går bra. Jag säger åt honom.<br/>-God kväll.</p>
-			<p xml:id="78" xml:space="preserve" begin="00:12:42.680" end="00:12:46.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vänta, Ciro.<br/>Gillar du den här soffan?</p>
-			<p xml:id="79" xml:space="preserve" begin="00:12:48.240" end="00:12:51.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jösses! Den är jättefin.</p>
-			<p xml:id="80" xml:space="preserve" begin="00:12:51.720" end="00:12:55.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Då får du den av mig.</p>
-			<p xml:id="81" xml:space="preserve" begin="00:12:55.600" end="00:13:00.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Måste du tänka på saken?<br/>-Jag kan nog inte ta emot den.</p>
-			<p xml:id="82" xml:space="preserve" begin="00:13:00.120" end="00:13:05.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Du gör mig en tjänst.<br/>I morgon får jag en ny soffa.</p>
-			<p xml:id="83" xml:space="preserve" begin="00:13:05.160" end="00:13:08.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag ber Genny hjälpa dig. - Genny!</p>
-			<p xml:id="84" xml:space="preserve" begin="00:13:08.640" end="00:13:11.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span xml:space="preserve" tts:fontStyle="italic">-Vad är det, mamma?</span><br/>-Kom och hjälp Ciro.</p>
-			<p xml:id="85" xml:space="preserve" begin="00:13:14.520" end="00:13:16.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Här.</p>
-			<p xml:id="86" xml:space="preserve" begin="00:13:18.200" end="00:13:21.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Tack, Gennaro.<br/>-Du, Ciro?</p>
-			<p xml:id="87" xml:space="preserve" begin="00:13:23.840" end="00:13:28.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ring mig nästa gång<br/>du ska grilla hos Conte.</p>
-			<p xml:id="88" xml:space="preserve" begin="00:13:28.160" end="00:13:33.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Lugn, det blir fler gånger.<br/>Det är inte slut här.</p>
-			<p xml:id="89" xml:space="preserve" begin="00:13:33.160" end="00:13:37.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Du måste ringa mig. Fattar du?</p>
-			<p xml:id="90" xml:space="preserve" begin="00:13:38.600" end="00:13:40.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hej.</p>
-			<p xml:id="91" xml:space="preserve" begin="00:13:40.800" end="00:13:43.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Tack.<br/>-Hej då.</p>
-			<p xml:id="92" xml:space="preserve" begin="00:14:03.120" end="00:14:07.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Är det säkert? Jag förstår. Tack.</p>
-			<p xml:id="93" xml:space="preserve" begin="00:14:07.120" end="00:14:10.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Har Ciro åkt med soffan?<br/>-Ja, hur så?</p>
-			<p xml:id="94" xml:space="preserve" begin="00:14:10.160" end="00:14:14.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Därför att den nya inte är bra.</p>
-			<p xml:id="95" xml:space="preserve" begin="00:14:14.120" end="00:14:18.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Den är inte bra. Inte bra.</p>
-			<p xml:id="96" xml:space="preserve" begin="00:14:18.160" end="00:14:21.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Familjen Capano har varit<br/>i Sharm el-Sheikh.</p>
-			<p xml:id="97" xml:space="preserve" begin="00:14:21.680" end="00:14:25.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vem bryr sig om familjen Capano?<br/>-Vad jobbig du är.</p>
-			<p xml:id="98" xml:space="preserve" begin="00:14:25.880" end="00:14:29.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Jag har ätit för mycket köttbullar.<br/>-Han har bara ätit femton stycken.</p>
-			<p xml:id="99" xml:space="preserve" begin="00:14:29.800" end="00:14:32.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Han har nog bandmask.</p>
-			<p xml:id="100" xml:space="preserve" begin="00:14:32.160" end="00:14:37.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Barnen skulle älska Sharm el-Sheikh.<br/>-Barn har kul var de än är.</p>
-			<p xml:id="101" xml:space="preserve" begin="00:14:37.520" end="00:14:41.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Men det är ännu roligare där.<br/>-Vad söt du är.</p>
-			<p xml:id="102" xml:space="preserve" begin="00:14:47.000" end="00:14:50.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är sent. - Attilio!</p>
-			<p xml:id="103" xml:space="preserve" begin="00:14:51.920" end="00:14:57.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Attì, vi måste dra.<br/>-Jag orkar inte.</p>
-			<p xml:id="104" xml:space="preserve" begin="00:14:57.400" end="00:15:00.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag fattar. Jag åker ensam.<br/>Oroa dig inte.</p>
-			<p xml:id="105" xml:space="preserve" begin="00:15:01.040" end="00:15:03.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag ringer dig sedan.</p>
-			<p xml:id="106" xml:space="preserve" begin="00:15:03.360" end="00:15:06.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hej då, Antonietta.<br/>-Hej då.</p>
-			<p xml:id="107" xml:space="preserve" begin="00:15:21.240" end="00:15:23.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hej, Toupé.<br/>-Ciro.</p>
-			<p xml:id="108" xml:space="preserve" begin="00:15:23.680" end="00:15:25.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ciruzzo. En kaffe?</p>
-			<p xml:id="109" xml:space="preserve" begin="00:15:25.880" end="00:15:29.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ciro? Får jag ge dig det här?</p>
-			<p xml:id="110" xml:space="preserve" begin="00:15:29.680" end="00:15:35.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Varför tror du jag är här?<br/>-Allt står uppskrivet.</p>
-			<p xml:id="111" xml:space="preserve" begin="00:15:35.400" end="00:15:41.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Får jag lov att be dig om en tjänst?<br/>-Vad är det, Toupé?</p>
-			<p xml:id="112" xml:space="preserve" begin="00:15:41.520" end="00:15:45.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Min fru har en brorson.<br/>Han är duktig, men...</p>
-			<p xml:id="113" xml:space="preserve" begin="00:17:56.760" end="00:18:02.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Tre döda. Åtminstone tre döda.<br/>Och det låg sårade på golvet.</p>
-			<p xml:id="114" xml:space="preserve" begin="00:18:02.160" end="00:18:05.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">De fanskapen<br/>kastade in två bomber också.</p>
-			<p xml:id="115" xml:space="preserve" begin="00:18:05.320" end="00:18:10.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hur mår du?<br/>-För jävligt. Du skulle ha dött.</p>
-			<p xml:id="116" xml:space="preserve" begin="00:18:11.040" end="00:18:16.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vi har gjort fel, Attì. Jag visste<br/>att Conte skulle hämnas branden.</p>
-			<p xml:id="117" xml:space="preserve" begin="00:18:16.200" end="00:18:20.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Du ska inte säga det till Pietro.<br/>Fattar du?</p>
-			<p xml:id="118" xml:space="preserve" begin="00:18:26.480" end="00:18:30.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Någon av oss kunde ha varit där,<br/>någon annan än den odödlige-</p>
-			<p xml:id="119" xml:space="preserve" begin="00:18:30.560" end="00:18:33.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">-han som ingen kan döda.</p>
-			<p xml:id="120" xml:space="preserve" begin="00:18:33.960" end="00:18:39.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vem som helst av oss. Då skulle<br/>vi ha sörjt en död människa nu.</p>
-			<p xml:id="121" xml:space="preserve" begin="00:18:40.840" end="00:18:46.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">De sköt i vårt område, på en söndag.<br/>Det kunde ha varit barn där.</p>
-			<p xml:id="122" xml:space="preserve" begin="00:18:47.920" end="00:18:51.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det här är inget man kan rätta till.</p>
-			<p xml:id="123" xml:space="preserve" begin="00:18:51.600" end="00:18:54.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vi måste ta honom.</p>
-			<p xml:id="124" xml:space="preserve" begin="00:18:54.480" end="00:18:59.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Den där ormtungan han har<br/>den ska vi slita ut.</p>
-			<p xml:id="125" xml:space="preserve" begin="00:18:59.280" end="00:19:03.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han lär gömma sig<br/>i byggnaden där borta, hattfabriken.</p>
-			<p xml:id="126" xml:space="preserve" begin="00:19:03.440" end="00:19:06.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag skiter i var han är.<br/>Vi ska ta honom.</p>
-			<p xml:id="127" xml:space="preserve" begin="00:19:06.960" end="00:19:11.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ja, Don Piè,<br/>men vi måste hitta ett sätt.</p>
-			<p xml:id="128" xml:space="preserve" begin="00:19:11.200" end="00:19:14.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han måste ut därifrån först.<br/>Det är ingen plats...</p>
-			<p xml:id="129" xml:space="preserve" begin="00:19:14.480" end="00:19:18.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Ingen plats för vadå?<br/>-Vi kan inte bara gå in där.</p>
-			<p xml:id="130" xml:space="preserve" begin="00:19:18.480" end="00:19:22.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vi blir skadade.<br/>-Jag ska vara tydligare.</p>
-			<p xml:id="131" xml:space="preserve" begin="00:19:22.320" end="00:19:26.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vi måste tänka oss för.<br/>Han har vakter överallt.</p>
-			<p xml:id="132" xml:space="preserve" begin="00:19:26.920" end="00:19:29.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vad ska vi tänka på?</p>
-			<p xml:id="133" xml:space="preserve" begin="00:19:29.920" end="00:19:34.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Om din son varit på baren<br/>skulle du behöva tänka då?</p>
-			<p xml:id="134" xml:space="preserve" begin="00:19:34.840" end="00:19:37.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Och skulle du behöva tänka?</p>
-			<p xml:id="135" xml:space="preserve" begin="00:19:37.960" end="00:19:41.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Och du?<br/>-Visst. Men vi behöver en plan.</p>
-			<p xml:id="136" xml:space="preserve" begin="00:19:41.080" end="00:19:43.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Håll käften!</p>
-			<p xml:id="137" xml:space="preserve" begin="00:19:45.600" end="00:19:51.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Conte borde ha tänkt på det. Förut.<br/>Nu är det för sent.</p>
-			<p xml:id="138" xml:space="preserve" begin="00:20:34.240" end="00:20:38.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Hur fan ska vi komma in?<br/>Det är fullt av vakter.</p>
-			<p xml:id="139" xml:space="preserve" begin="00:20:38.400" end="00:20:43.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är på hans område. Vad säger du?</p>
-			<p xml:id="140" xml:space="preserve" begin="00:20:43.440" end="00:20:47.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Letar vi efter Conte<br/>eller han efter oss?</p>
-			<p xml:id="141" xml:space="preserve" begin="00:20:47.560" end="00:20:52.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vi har ju hittat honom.<br/>-Jag menar allvar.</p>
-			<p xml:id="142" xml:space="preserve" begin="00:20:56.080" end="00:21:01.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Salvatore Conte för oss dit han vill,<br/>och Don Pietro lyder honom.</p>
-			<p xml:id="143" xml:space="preserve" begin="00:21:01.080" end="00:21:06.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han har inte blivit Pietro Savastano<br/>för sina vackra ögons skull.</p>
-			<p xml:id="144" xml:space="preserve" begin="00:21:13.600" end="00:21:16.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vill du veta vad jag tror?</p>
-			<p xml:id="145" xml:space="preserve" begin="00:21:16.480" end="00:21:22.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pietro Savastano har blivit gammal,<br/>och Salvatore Conte har förstått det.</p>
-			<p xml:id="146" xml:space="preserve" begin="00:21:28.040" end="00:21:31.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span xml:space="preserve" tts:fontStyle="italic">Polisens tekniker</span><br/><span xml:space="preserve" tts:fontStyle="italic">undersöker sprängningsplatsen.</span></p>
-			<p xml:id="147" xml:space="preserve" begin="00:21:31.400" end="00:21:36.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ska vi inte köpa den nya soffan<br/>utanför Neapel? I Salerno.</p>
-			<p xml:id="148" xml:space="preserve" begin="00:21:36.680" end="00:21:39.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad säger du?<br/>-Nej.</p>
-			<p xml:id="149" xml:space="preserve" begin="00:21:39.560" end="00:21:43.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ska vi beställa en likadan soffa<br/>när vi vet att den är full av...</p>
-			<p xml:id="150" xml:space="preserve" begin="00:21:43.720" end="00:21:46.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vi ska inte göra någonting.</p>
-			<p xml:id="151" xml:space="preserve" begin="00:21:49.880" end="00:21:53.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ska vi sätta upp skyltar<br/>om att vi har vakter?</p>
-			<p xml:id="152" xml:space="preserve" begin="00:21:53.400" end="00:21:59.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag skulle drämma till dem i skallen<br/>och förstöra hela lagret.</p>
-			<p xml:id="153" xml:space="preserve" begin="00:21:59.440" end="00:22:02.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag tror inte<br/>att de inte visste ett skit.</p>
-			<p xml:id="154" xml:space="preserve" begin="00:22:02.200" end="00:22:05.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Svär inte vid bordet.<br/>-Pratar jag kinesiska?</p>
-			<p xml:id="155" xml:space="preserve" begin="00:22:05.520" end="00:22:10.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vi ska inte göra någonting.<br/>-Var ska vi sitta? På golvet?</p>
-			<p xml:id="156" xml:space="preserve" begin="00:22:36.040" end="00:22:39.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Gå, bara. Gå till din far.</p>
-			<p xml:id="157" xml:space="preserve" begin="00:22:56.480" end="00:23:00.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Läget är lugnt!<br/>-Det är lugnt!</p>
-			<p xml:id="158" xml:space="preserve" begin="00:23:02.040" end="00:23:04.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är lugnt.</p>
-			<p xml:id="159" xml:space="preserve" begin="00:23:56.440" end="00:23:59.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-God dag.<br/>-Hej.</p>
-			<p xml:id="160" xml:space="preserve" begin="00:24:15.080" end="00:24:18.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Snabba på.</p>
-			<p xml:id="161" xml:space="preserve" begin="00:24:18.440" end="00:24:21.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Minns du?<br/>-Absolut.</p>
-			<p xml:id="162" xml:space="preserve" begin="00:24:24.640" end="00:24:28.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det har startats en ny jävla<br/>organisation här. Visste du det?</p>
-			<p xml:id="163" xml:space="preserve" begin="00:24:28.360" end="00:24:33.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Polis och press för ett jäkla liv,<br/>så man har sålt 300 doser mindre.</p>
-			<p xml:id="164" xml:space="preserve" begin="00:24:33.520" end="00:24:37.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Har du pratat med Pietro?<br/>-De väntar på oss.</p>
-			<p xml:id="165" xml:space="preserve" begin="00:24:54.560" end="00:24:57.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det finns inget att göra.</p>
-			<p xml:id="166" xml:space="preserve" begin="00:24:59.440" end="00:25:04.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag har försökt, men han hör inte<br/>på det örat. Det måste ske genast.</p>
-			<p xml:id="167" xml:space="preserve" begin="00:25:04.640" end="00:25:08.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han ska få känna på<br/>samma helvete i sitt område.</p>
-			<p xml:id="168" xml:space="preserve" begin="00:25:08.080" end="00:25:13.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Bra. Då får vi polisen<br/>och pressen på oss en gång till.</p>
-			<p xml:id="169" xml:space="preserve" begin="00:25:13.080" end="00:25:15.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Var är han gömd?</p>
-			<p xml:id="170" xml:space="preserve" begin="00:25:15.200" end="00:25:18.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han säger att han är<br/>på haschgömstället i morgon.</p>
-			<p xml:id="171" xml:space="preserve" begin="00:25:18.920" end="00:25:23.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vem fan har sagt det?<br/>-Inte vet jag. Han bara vet det.</p>
-			<p xml:id="172" xml:space="preserve" begin="00:25:23.120" end="00:25:25.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Han har tappat greppet.</p>
-			<p xml:id="173" xml:space="preserve" begin="00:25:25.280" end="00:25:29.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Han säger att Conte sprider rykten<br/>om att Savastano är livrädd.</p>
-			<p xml:id="174" xml:space="preserve" begin="00:25:29.520" end="00:25:32.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det var det jag sa.<br/>-Sluta nu.</p>
-			<p xml:id="175" xml:space="preserve" begin="00:25:32.440" end="00:25:37.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Om det måste ske så måste det.<br/>Var och en sköter sitt.</p>
-			<p xml:id="176" xml:space="preserve" begin="00:25:37.240" end="00:25:39.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Nu drar vi.</p>
-			<p xml:id="177" xml:space="preserve" begin="00:25:51.360" end="00:25:55.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ge fan i att prata illa<br/>om Pietro framför de andra.</p>
-			<p xml:id="178" xml:space="preserve" begin="00:25:55.520" end="00:26:02.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Om någon av dem tjallar för honom<br/>så får du en kula i pannan.</p>
-			<p xml:id="179" xml:space="preserve" begin="00:26:02.080" end="00:26:07.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Och tänk vad kul det blir<br/>om det blir jag som måste skjuta.</p>
-			<p xml:id="180" xml:space="preserve" begin="00:26:17.040" end="00:26:21.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Du, Pino. Pengarna har tagit slut.<br/>Kan du låna ut lite?</p>
-			<p xml:id="181" xml:space="preserve" begin="00:26:21.600" end="00:26:26.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Glöm det.<br/>-Kom igen. Du får dem i veckan.</p>
-			<p xml:id="182" xml:space="preserve" begin="00:26:26.640" end="00:26:30.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vad är det?<br/>Har de gipsat fötterna på dig?</p>
-			<p xml:id="183" xml:space="preserve" begin="00:26:32.080" end="00:26:37.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Får jag fråga dig en sak?<br/>Är det mandelsmak på dina <span xml:space="preserve" tts:fontStyle="italic">confetti</span>?</p>
-			<p xml:id="184" xml:space="preserve" begin="00:26:39.880" end="00:26:45.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vad är det för fel på mina skor?<br/>Lägg er inte i. Jävla idioter.</p>
-			<p xml:id="185" xml:space="preserve" begin="00:26:45.920" end="00:26:49.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag ber Genny om pengarna.<br/>Han ställer nog upp.</p>
-			<p xml:id="186" xml:space="preserve" begin="00:26:49.320" end="00:26:53.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vart ska du? Han är upptagen.<br/>-Vad gör han?</p>
-			<p xml:id="187" xml:space="preserve" begin="00:26:54.760" end="00:26:58.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kom hit, <span xml:space="preserve" tts:fontStyle="italic">confetti</span>!<br/>- En applåd för <span xml:space="preserve" tts:fontStyle="italic">confetti</span>.</p>
-			<p xml:id="188" xml:space="preserve" begin="00:26:59.680" end="00:27:03.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Visste du att de<br/>har sänkt priserna i Sanità?</p>
-			<p xml:id="189" xml:space="preserve" begin="00:27:03.520" end="00:27:06.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Nu kostar heroinet elva euro.</p>
-			<p xml:id="190" xml:space="preserve" begin="00:27:07.760" end="00:27:12.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det sägs bero på<br/>en ny jävla organisation.</p>
-			<p xml:id="191" xml:space="preserve" begin="00:27:14.040" end="00:27:17.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Men jag tror inte<br/>att det beror på det.</p>
-			<p xml:id="192" xml:space="preserve" begin="00:27:17.520" end="00:27:22.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad beror det på?<br/>-De vill bli av med grejerna.</p>
-			<p xml:id="193" xml:space="preserve" begin="00:27:22.080" end="00:27:25.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">De vet att det snart blir bråk.<br/>Då kommer det poliser-</p>
-			<p xml:id="194" xml:space="preserve" begin="00:27:25.800" end="00:27:30.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-och med poliser i närheten<br/>går försäljningen dåligt.</p>
-			<p xml:id="195" xml:space="preserve" begin="00:27:34.480" end="00:27:37.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Är det dags i morgon?</p>
-			<p xml:id="196" xml:space="preserve" begin="00:27:41.560" end="00:27:44.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Jag vill följa med.<br/>-Det går inte, Gennaro.</p>
-			<p xml:id="197" xml:space="preserve" begin="00:27:44.720" end="00:27:48.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Bestämmer du över mig?<br/>-Jag bestämmer ingenting.</p>
-			<p xml:id="198" xml:space="preserve" begin="00:27:48.520" end="00:27:51.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är din far som bestämmer.</p>
-			<p xml:id="199" xml:space="preserve" begin="00:27:55.800" end="00:28:00.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag vill visa pappa<br/>att jag klarar av det.</p>
-			<p xml:id="200" xml:space="preserve" begin="00:28:00.960" end="00:28:05.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Om du är med så gör jag det.<br/>-Jag vet att du kan.</p>
-			<p xml:id="201" xml:space="preserve" begin="00:28:05.880" end="00:28:09.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Men det är fortfarande farligt.</p>
-			<p xml:id="202" xml:space="preserve" begin="00:28:11.880" end="00:28:15.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vill du göra din far nöjd?</p>
-			<p xml:id="203" xml:space="preserve" begin="00:28:15.400" end="00:28:18.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Då ska du stanna hemma.</p>
-			<p xml:id="204" xml:space="preserve" begin="00:28:28.000" end="00:28:30.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Är du rädd?</p>
-			<p xml:id="205" xml:space="preserve" begin="00:28:32.480" end="00:28:35.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Tycker du att det är konstigt?</p>
-			<p xml:id="206" xml:space="preserve" begin="00:28:38.160" end="00:28:43.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Om pappa låter mig följa med<br/>ska jag beskydda dig.</p>
-			<p xml:id="207" xml:space="preserve" begin="00:28:47.600" end="00:28:49.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är sant.</p>
-			<p xml:id="208" xml:space="preserve" begin="00:30:00.800" end="00:30:04.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Skriv ett kvitto<br/>åt Attilio Diotallevi.</p>
-			<p xml:id="209" xml:space="preserve" begin="00:30:07.080" end="00:30:10.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Är det något problem?<br/>-Nej.</p>
-			<p xml:id="210" xml:space="preserve" begin="00:30:11.040" end="00:30:14.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Ska han också ha tre magasin?<br/>-Ja.</p>
-			<p xml:id="211" xml:space="preserve" begin="00:30:17.080" end="00:30:22.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ett kvitto är Attilios. De andra två<br/>ska Centocapelli och A' Lisca ha.</p>
-			<p xml:id="212" xml:space="preserve" begin="00:30:29.960" end="00:30:33.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hit med grejerna.<br/>-Här.</p>
-			<p xml:id="213" xml:space="preserve" begin="00:31:04.760" end="00:31:07.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hej.<br/>-Hej.</p>
-			<p xml:id="214" xml:space="preserve" begin="00:31:12.680" end="00:31:16.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-När ger du dig av?<br/>-Snart.</p>
-			<p xml:id="215" xml:space="preserve" begin="00:31:24.440" end="00:31:27.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Stäng till dörren.</p>
-			<p xml:id="216" xml:space="preserve" begin="00:32:00.920" end="00:32:04.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Var är kaffet?<br/>-På bänken.</p>
-			<p xml:id="217" xml:space="preserve" begin="00:32:16.800" end="00:32:19.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Är ni helt dumma i huvudet?</p>
-			<p xml:id="218" xml:space="preserve" begin="00:32:28.640" end="00:32:32.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Pappa?<br/>Får jag följa med Ciro i kväll?</p>
-			<p xml:id="219" xml:space="preserve" begin="00:32:35.840" end="00:32:39.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Pappa?<br/>-Jag hörde dig. Svaret är nej.</p>
-			<p xml:id="220" xml:space="preserve" begin="00:32:39.680" end="00:32:43.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Jag håller mig nära honom.<br/>-Det tjänar inget till.</p>
-			<p xml:id="221" xml:space="preserve" begin="00:32:43.880" end="00:32:48.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Gå ut och roa dig.<br/>Din stund kommer.</p>
-			<p xml:id="222" xml:space="preserve" begin="00:32:49.960" end="00:32:52.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Du ger mig ju aldrig chansen.</p>
-			<p xml:id="223" xml:space="preserve" begin="00:32:53.000" end="00:32:58.040" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Gennaro, du är min son.<br/>Du behöver inga chanser.</p>
-			<p xml:id="224" xml:space="preserve" begin="00:33:32.200" end="00:33:37.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Titta framåt.<br/>-Jag vill dö med kammat hår.</p>
-			<p xml:id="225" xml:space="preserve" begin="00:33:37.920" end="00:33:42.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vi köper hans väst<br/>i barnklädesbutiken nästa gång.</p>
-			<p xml:id="226" xml:space="preserve" begin="00:33:42.200" end="00:33:45.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hörde du, eller?<br/>-Dra åt helvete.</p>
-			<p xml:id="227" xml:space="preserve" begin="00:34:32.960" end="00:34:36.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Är det bra, Michele?<br/>-Ja då. Själv då?</p>
-			<p xml:id="228" xml:space="preserve" begin="00:34:36.400" end="00:34:39.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det är bra. - Hej.</p>
-			<p xml:id="229" xml:space="preserve" begin="00:34:40.960" end="00:34:43.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Lucia. Hon är grym på biljard.</p>
-			<p xml:id="230" xml:space="preserve" begin="00:34:43.840" end="00:34:49.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Jag skakar inte på handen.<br/>-Hon skakar inte. Fattar du?</p>
-			<p xml:id="231" xml:space="preserve" begin="00:34:49.200" end="00:34:53.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Kan du aldrig skratta?<br/>Du är alltid förbannad.</p>
-			<p xml:id="232" xml:space="preserve" begin="00:34:53.400" end="00:34:57.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Du har rätt. Jag är förbannad.</p>
-			<p xml:id="233" xml:space="preserve" begin="00:35:10.160" end="00:35:13.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad gör du?<br/>-Vill du ha något att dricka?</p>
-			<p xml:id="234" xml:space="preserve" begin="00:35:13.200" end="00:35:16.160" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Hon är med mig.<br/>-Du heter väl Noemi?</p>
-			<p xml:id="235" xml:space="preserve" begin="00:35:16.240" end="00:35:19.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fattar du inte? Är du dum, eller?</p>
-			<p xml:id="236" xml:space="preserve" begin="00:35:20.400" end="00:35:23.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad sa du?<br/>-Gennaro, sluta.</p>
-			<p xml:id="237" xml:space="preserve" begin="00:35:23.920" end="00:35:28.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Jag ska slå ihjäl dig.<br/>-Vi är på vårt område, Gennà.</p>
-			<p xml:id="238" xml:space="preserve" begin="00:35:29.600" end="00:35:32.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hej då, Noemi.</p>
-			<p xml:id="239" xml:space="preserve" begin="00:36:05.200" end="00:36:09.120" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Odödlige killen.<br/>Ta på den här så blir du lugnare.</p>
-			<p xml:id="240" xml:space="preserve" begin="00:36:25.480" end="00:36:29.080" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det här kommer att gå åt helvete.</p>
-			<p xml:id="241" xml:space="preserve" begin="00:37:47.840" end="00:37:49.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Fan.</p>
-			<p xml:id="242" xml:space="preserve" begin="00:41:13.360" end="00:41:15.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio!</p>
-			<p xml:id="243" xml:space="preserve" begin="00:41:18.720" end="00:41:21.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attilio. Attilio.</p>
-			<p xml:id="244" xml:space="preserve" begin="00:41:36.360" end="00:41:39.720" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det gör ont.<br/>-Det går bra.</p>
-			<p xml:id="245" xml:space="preserve" begin="00:41:41.520" end="00:41:44.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det går bra.<br/>-Det gör ont.</p>
-			<p xml:id="246" xml:space="preserve" begin="00:41:48.800" end="00:41:51.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attì.</p>
-			<p xml:id="247" xml:space="preserve" begin="00:41:56.200" end="00:41:58.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Attì.</p>
-			<p xml:id="248" xml:space="preserve" begin="00:42:12.760" end="00:42:17.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vi måste dra. Polisen kommer.<br/>Vi drar nu. Han är död!</p>
-			<p xml:id="249" xml:space="preserve" begin="00:42:17.080" end="00:42:21.640" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Det finns inget att göra.<br/>Vill du att de tar dig? Kom igen!</p>
-			<p xml:id="250" xml:space="preserve" begin="00:44:23.960" end="00:44:29.480" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Vad fan är det med dig?<br/>Kommer du till mig så här?</p>
-			<p xml:id="251" xml:space="preserve" begin="00:44:29.560" end="00:44:34.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag tänkte att det var bättre<br/>att berätta allt genast.</p>
-			<p xml:id="252" xml:space="preserve" begin="00:44:36.800" end="00:44:39.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Berätta.</p>
-			<p xml:id="253" xml:space="preserve" begin="00:44:41.960" end="00:44:46.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Attilio är död. Centocapelli med.<br/>Och A' Lisca och Africano.</p>
-			<p xml:id="254" xml:space="preserve" begin="00:44:46.920" end="00:44:49.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Och avskummet?</p>
-			<p xml:id="255" xml:space="preserve" begin="00:44:49.440" end="00:44:52.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Han rymde, om han nu var där.</p>
-			<p xml:id="256" xml:space="preserve" begin="00:44:52.360" end="00:44:55.320" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Han var där. Han var där.</p>
-			<p xml:id="257" xml:space="preserve" begin="00:44:55.400" end="00:44:59.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Men alla era män är döda.<br/>Ingen är kvar.</p>
-			<p xml:id="258" xml:space="preserve" begin="00:45:06.480" end="00:45:09.360" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Det går bra så med.</p>
-			<p xml:id="259" xml:space="preserve" begin="00:45:09.440" end="00:45:12.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Conte kommer att minnas det.</p>
-			<p xml:id="260" xml:space="preserve" begin="00:45:12.760" end="00:45:16.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Nu tänker han sig för<br/>innan han gör dumheter.</p>
-			<p xml:id="261" xml:space="preserve" begin="00:45:28.640" end="00:45:31.800" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag beklagar det som hände Attilio.</p>
-			<p xml:id="262" xml:space="preserve" begin="00:45:31.880" end="00:45:36.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag vet att han var<br/>som en far för dig.</p>
-			<p xml:id="263" xml:space="preserve" begin="00:45:36.360" end="00:45:39.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Du vet väl också<br/>att vi måste göra det?</p>
-			<p xml:id="264" xml:space="preserve" begin="00:45:39.960" end="00:45:42.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Och att det måste bli så här?</p>
-			<p xml:id="265" xml:space="preserve" begin="00:45:47.600" end="00:45:51.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag ska ordna<br/>begravningskransar åt alla.</p>
-			<p xml:id="266" xml:space="preserve" begin="00:45:51.360" end="00:45:54.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag tar hand<br/>om kvinnorna och fruarna.</p>
-			<p xml:id="267" xml:space="preserve" begin="00:45:54.920" end="00:46:01.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag sköter det. De får månadslönen<br/>genast, flickvännerna också.</p>
-			<p xml:id="268" xml:space="preserve" begin="00:46:03.200" end="00:46:06.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Bravo, odödlige.</p>
-			<p xml:id="269" xml:space="preserve" begin="00:46:06.600" end="00:46:09.560" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Du ska se att du också får pengar.</p>
-			<p xml:id="270" xml:space="preserve" begin="00:46:45.240" end="00:46:48.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Antonio!<br/>Skynda er, ni ska till skolan.</p>
-			<p xml:id="271" xml:space="preserve" begin="00:46:48.960" end="00:46:51.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Din tallrik.</p>
-			<p xml:id="272" xml:space="preserve" begin="00:46:51.360" end="00:46:56.200" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Antonio! Kom nu.<br/>Hämta kakorna i köket.</p>
-			<p xml:id="273" xml:space="preserve" begin="00:47:13.560" end="00:47:17.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Luana! Ta bort den där.<br/>-Jag ska, mamma.</p>
-			<p xml:id="274" xml:space="preserve" begin="00:47:17.600" end="00:47:21.000" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">En vacker dag slår jag sönder den.</p>
-			<p xml:id="275" xml:space="preserve" begin="00:47:21.080" end="00:47:24.240" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Skynda er nu.</p>
-			<p xml:id="276" xml:space="preserve" begin="00:47:34.880" end="00:47:36.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hallå?</p>
-			<p xml:id="277" xml:space="preserve" begin="00:47:37.000" end="00:47:40.960" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px"><span xml:space="preserve" tts:fontStyle="italic">På brottsplatsen</span><br/><span xml:space="preserve" tts:fontStyle="italic">fann man blodiga kroppar...</span></p>
-			<p xml:id="278" xml:space="preserve" begin="00:47:41.040" end="00:47:45.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad tycker du?<br/>-Den är fin. Ett bra val.</p>
-			<p xml:id="279" xml:space="preserve" begin="00:47:45.600" end="00:47:48.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Den var inte särskilt dyr heller.</p>
-			<p xml:id="280" xml:space="preserve" begin="00:47:52.120" end="00:47:54.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Är det bra så?</p>
-			<p xml:id="281" xml:space="preserve" begin="00:47:56.960" end="00:48:00.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Tackar. Adjö. - Adjö, signora.<br/>-Adjö.</p>
-			<p xml:id="282" xml:space="preserve" begin="00:48:12.480" end="00:48:15.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Ska vi prova underverket?</p>
-			<p xml:id="283" xml:space="preserve" begin="00:48:18.560" end="00:48:21.400" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vi provar väl.</p>
-			<p xml:id="284" xml:space="preserve" begin="00:48:32.640" end="00:48:37.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Vad hård den är!<br/>-Den är verkligen fast.</p>
-			<p xml:id="285" xml:space="preserve" begin="00:48:41.240" end="00:48:46.520" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Ryggstödet också.<br/>Är modellen sådan eller är något fel?</p>
-			<p xml:id="286" xml:space="preserve" begin="00:48:46.600" end="00:48:49.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Den ska vara så.</p>
-			<p xml:id="287" xml:space="preserve" begin="00:48:50.640" end="00:48:55.760" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Jag tycker inte om den.<br/>Vi måste byta ut soffan.</p>
-			<p xml:id="288" xml:space="preserve" begin="00:48:57.480" end="00:49:00.920" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Jag måste sitta bekvämt.</p>
-			<p xml:id="289" xml:space="preserve" begin="00:49:03.320" end="00:49:06.680" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Vi måste byta ut den.</p>
-			<p xml:id="290" xml:space="preserve" begin="00:49:25.560" end="00:49:31.440" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">Snutjävlar. De kan stoppa<br/>sina mikrofoner i häcken.</p>
-			<p xml:id="291" xml:space="preserve" begin="00:50:13.160" end="00:50:15.840" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Hej då, Attì.</p>
-			<p xml:id="292" xml:space="preserve" begin="00:50:56.120" end="00:50:58.280" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Spring!<br/>-Det är för sent.</p>
-			<p xml:id="293" xml:space="preserve" begin="00:50:58.360" end="00:51:01.600" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 437px">-Det är det inte.<br/>-Jag kom ju ända hit.</p>
-			<p xml:id="294" xml:space="preserve" begin="00:51:01.680" end="00:51:04.880" tts:backgroundColor="black" tts:fontSize="36px" tts:origin="0px 477px">Nu vaktar jag.</p>
-			<p xml:id="295" xml:space="preserve" begin="00:51:30.960" end="00:51:32.280" tts:backgroundColor="black" tts:textAlign="center" tts:fontSize="36px" tts:origin="0px 477px">I NÄSTA AVSNITT</p>
-			<p xml:id="296" xml:space="preserve" begin="00:52:51.120" end="00:52:55.120" tts:backgroundColor="black" tts:textAlign="center" tts:fontSize="36px" tts:origin="0px 437px">Översättning: Katarina Pellijeff<br/>www.btistudios.com</p>
-		</div>
-	</body>
-</tt>
