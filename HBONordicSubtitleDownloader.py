@@ -134,7 +134,7 @@ class HBONordicSubtitleDownloader():
         id = parse.path.split('/')[-1]
         if not id:
             print("Can not find ID in url")
-            exit(-1)
+            sys.exit(0)
 
         #Might replace parse.scheme with http to avoid https in the future
         url = parse.scheme + '://' + parse.netloc
@@ -196,7 +196,7 @@ if __name__ == "__main__":
     
     HBO = HBONordicSubtitleDownloader()
     HBO.getAndSaveSubtitles()
-    exit(0)
+    sys.exit(0)
     
     #look up this link later if needed http://stackoverflow.com/questions/20021693/how-to-pass-argparse-arguments-to-a-class
     #args_dict = vars(args)
