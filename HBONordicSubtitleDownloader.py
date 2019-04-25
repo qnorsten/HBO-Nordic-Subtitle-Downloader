@@ -28,7 +28,7 @@ class HBONordicSubtitleDownloader():
     def __init__(self):
         self.url = args.url
         self.no_srt = args.no_srt
-        self.no_xml = args.no_srt
+        self.no_xml = args.no_xml
         self.languages = args.languages
         self.username = args.username
         self.password = args.password
