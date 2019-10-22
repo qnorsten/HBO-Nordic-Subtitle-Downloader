@@ -184,7 +184,7 @@ class HBONordicSubtitleDownloader():
 
         #Might replace parse.scheme with http to avoid https in the future
         url = parse.scheme + '://' + parse.netloc
-        url = urljoin(url, 'cloffice/client/web/browse/'+ id)
+        url = urljoin(url, 'https://api-hbon.hbo.clearleap.com/cloffice/client/web/browse/'+ id)
         #get XML with links to subtitles
         data = requests.get(url, headers=headers)
         if data.status_code != 200:
